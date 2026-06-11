@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Mindshare FY27 — Intercom</title>
+<style>
+  /* ---- Intercom-inspired system: near-black navy ink, Intercom blue,
+         generous whitespace, Fin gradient accent ---- */
+  :root {
+    --ink: #081D34;
+    --blue: #0057FF;
+    --blue-soft: #EAF1FF;
+    --gray: #5B6B7B;
+    --line: #E8ECF1;
+    --pink: #E0457B;
+    --bg: #FFFFFF;
+    --fin-grad: linear-gradient(90deg, #0057FF 0%, #7B5BFF 55%, #E0457B 100%);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: "Segoe UI", -apple-system, "Helvetica Neue", Arial, sans-serif;
+         color: var(--ink); background: #f3f5f8; }
+  @page { size: 13.333in 7.5in; margin: 0; }
+
+  .slide {
+    width: 1280px; height: 720px; background: var(--bg);
+    position: relative; overflow: hidden; margin: 24px auto;
+    padding: 44px 56px 58px 56px; display: flex; flex-direction: column;
+    page-break-after: always; break-after: page;
+  }
+  @media print { body { background: #fff; } .slide { margin: 0; } }
+
+  .topbar { display: flex; justify-content: space-between; align-items: baseline;
+            margin-bottom: 6px; }
+  .brand { font-size: 14px; font-weight: 700; letter-spacing: .2px; }
+  .brand .fin { background: var(--fin-grad); -webkit-background-clip: text;
+                background-clip: text; color: transparent; }
+  .tag { font-size: 12px; color: var(--gray); font-weight: 600;
+         text-transform: uppercase; letter-spacing: 1.2px; }
+
+  .accent { width: 64px; height: 5px; background: var(--fin-grad);
+            border-radius: 3px; margin: 10px 0 14px 0; }
+  h1 { font-size: 31px; font-weight: 800; line-height: 1.18; letter-spacing: -0.3px; }
+  h1 .hl { color: var(--blue); }
+  .sub { font-size: 15.5px; color: var(--gray); margin-top: 7px; line-height: 1.4; }
+
+  .kpis { display: flex; gap: 14px; margin: 18px 0 14px 0; }
+  .kpi { flex: 1; border: 1px solid var(--line); border-radius: 12px;
+         padding: 13px 16px 11px 16px; background: #FBFCFE; }
+  .kpi .v { font-size: 27px; font-weight: 800; letter-spacing: -0.5px; }
+  .kpi .v.bad  { color: var(--pink); }
+  .kpi .v.good { color: var(--blue); }
+  .kpi .l { font-size: 12px; color: var(--gray); margin-top: 3px; line-height: 1.35; }
+
+  .chart { flex: 1; display: flex; align-items: center; justify-content: center; min-height: 0; }
+  .chart img { max-width: 100%; max-height: 100%; object-fit: contain; }
+
+  .foot { position: absolute; left: 56px; right: 56px; bottom: 20px;
+          display: flex; justify-content: space-between; align-items: center;
+          font-size: 10.5px; color: var(--gray); border-top: 1px solid var(--line);
+          padding-top: 8px; }
+  .pageno { font-weight: 700; color: var(--ink); }
+
+  .cards { display: flex; gap: 14px; margin-top: 14px; }
+  .card { flex: 1; border-radius: 12px; padding: 14px 16px; border: 1px solid var(--line); }
+  .card.blue { background: var(--blue-soft); border-color: #CFE0FF; }
+  .card.warn { background: #FFF3F7; border-color: #F6CFDE; }
+  .card h3 { font-size: 13px; font-weight: 800; margin-bottom: 5px; }
+  .card h3 .n { font-size: 19px; }
+  .card p { font-size: 12px; color: var(--gray); line-height: 1.45; }
+  .card p b { color: var(--ink); }
+
+  .cols { display: flex; gap: 26px; flex: 1; min-height: 0; margin-top: 10px; }
+  .col { flex: 1; min-width: 0; }
+
+  table.alloc { width: 100%; border-collapse: collapse; font-size: 13px; }
+  table.alloc th { text-align: left; font-size: 11px; text-transform: uppercase;
+                   letter-spacing: .8px; color: var(--gray); padding: 7px 10px;
+                   border-bottom: 2px solid var(--ink); }
+  table.alloc td { padding: 9.5px 10px; border-bottom: 1px solid var(--line);
+                   vertical-align: top; line-height: 1.35; }
+  table.alloc td.amt { font-weight: 800; color: var(--blue); white-space: nowrap; }
+  table.alloc td.what { font-weight: 700; }
+  table.alloc td.why { color: var(--gray); font-size: 12px; }
+  table.alloc tr.total td { border-bottom: none; border-top: 2px solid var(--ink);
+                            font-weight: 800; }
+
+  .mini { font-size: 12.5px; line-height: 1.5; }
+  .mini li { margin-bottom: 7px; margin-left: 16px; }
+  .mini b { color: var(--ink); }
+  .sect { font-size: 11px; font-weight: 800; text-transform: uppercase;
+          letter-spacing: 1px; color: var(--blue); margin: 12px 0 6px 0; }
+  .ret { background: var(--blue-soft); border: 1px solid #CFE0FF; border-radius: 12px;
+         padding: 13px 16px; margin-top: 12px; }
+  .ret .big { font-size: 21px; font-weight: 800; color: var(--blue); }
+  .ret p { font-size: 12px; color: var(--gray); margin-top: 3px; line-height: 1.4; }
+</style>
+</head>
+<body>
+
+<!-- ============================ SLIDE 1 ================================= -->
+<section class="slide">
+  <div class="topbar">
+    <div class="brand">Intercom <span class="fin">· Fin</span></div>
+    <div class="tag">FY27 Mindshare Strategy · Slide 1 of 3</div>
+  </div>
+  <div class="accent"></div>
+  <h1>Mindshare is eroding while we double down on capture —<br>
+      brand traffic <span class="hl">−25%</span> YoY as Paid doubled</h1>
+  <div class="sub">Mindshare = warm-channel reach (Direct + Organic) → buying intent → inbound core pipeline.
+       All YoY figures compare matched 26-week windows: Dec ’24–May ’25 vs Dec ’25–May ’26.</div>
+
+  <div class="kpis">
+    <div class="kpi"><div class="v bad">−25%</div>
+      <div class="l">Warm visits (Direct + Organic)<br>2.46M → 1.85M</div></div>
+    <div class="kpi"><div class="v bad">−31%</div>
+      <div class="l">Warm buying-intent visits<br>(pricing + demo pages)</div></div>
+    <div class="kpi"><div class="v bad">−28%</div>
+      <div class="l">Inbound MQLs<br>11,742 → 8,409</div></div>
+    <div class="kpi"><div class="v bad">+103%</div>
+      <div class="l">Paid visits — while Paid efficiency<br>fell −24% (21.4 → 16.2 conv/1k)</div></div>
+    <div class="kpi"><div class="v good">8.6%</div>
+      <div class="l">MQL→S1 rate, up from 6.5% —<br>smaller funnel, warmer buyers</div></div>
+  </div>
+
+  <div class="chart"><img src="../figures/fig1_warm_vs_paid.png" alt="Warm vs Paid weekly visits"></div>
+
+  <div class="foot">
+    <div>Decline is everywhere: NAMER −27% · EMEA −22% · APAC −14% · LATAM −47% warm visits YoY.
+         Two breaks: Powered By collapse (Mar ’25, −72% of free brand reach) and the Sep ’25 Fin moment.
+         Green shoot: Apr–May ’26 warm visits +3.8% YoY — first positive brand reading.</div>
+    <div class="pageno">1</div>
+  </div>
+</section>
+
+<!-- ============================ SLIDE 2 ================================= -->
+<section class="slide">
+  <div class="topbar">
+    <div class="brand">Intercom <span class="fin">· Fin</span></div>
+    <div class="tag">FY27 Mindshare Strategy · Slide 2 of 3</div>
+  </div>
+  <div class="accent"></div>
+  <h1>Brand is not a vanity metric: warm traffic converts up to
+      <span class="hl">1.7×</span> better — and the Fin launch proved it moves pipeline</h1>
+  <div class="sub">High-intent conversions = demo form + contact-sales + signup — the events that mint core MQLs
+       (core converts to S1 at 8.1% vs 1.7% non-core; self-directed Contact Sales MQLs convert at 20.4%).</div>
+
+  <div class="chart" style="max-height: 330px;"><img src="../figures/fig2_channel_roles.png" alt="Channel roles"></div>
+
+  <div class="cards">
+    <div class="card blue">
+      <h3><span class="n">Sep ’25 Fin moment</span> — the natural experiment</h3>
+      <p>Launch-quarter brand push: Fin-surface traffic <b>5.7×</b> (sustained 8+ months),
+         inbound MQLs +6%, <b>S1 conversions +20%</b> (397 → 475) vs prior quarter.
+         Brand investment produced more <b>and better</b> pipeline.</p>
+    </div>
+    <div class="card">
+      <h3><span class="n">Capture is saturating</span></h3>
+      <p>Paid visits +103% YoY but Paid conversion efficiency <b>fell 24%</b> — and total inbound
+         MQLs still dropped 28%. <b>Capture harvests demand; it can’t replace creating it.</b>
+         Paid is now 42% of marketing visits, up from 15%.</p>
+    </div>
+    <div class="card warn">
+      <h3><span class="n">99.6%</span> of MQLs are channel-blind</h3>
+      <p><b>utm_source is Direct/Unknown on 45.6K of 45.8K MQLs.</b> Attribution can’t prove
+         any channel’s MQL quality today — paid included. Fixing capture is a zero-cost
+         prerequisite for every ROI debate, and last-touch already under-credits brand.</p>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div>Inbound converts 7.2% vs outbound 4.0%. Honest caveat: weekly brand→MQL correlation is modest (r ≈ 0.3–0.4) —
+         the case rests on matched YoY windows and the before/after experiment, not weekly noise.</div>
+    <div class="pageno">2</div>
+  </div>
+</section>
+
+<!-- ============================ SLIDE 3 ================================= -->
+<section class="slide">
+  <div class="topbar">
+    <div class="brand">Intercom <span class="fin">· Fin</span></div>
+    <div class="tag">FY27 Mindshare Strategy · Slide 3 of 3</div>
+  </div>
+  <div class="accent"></div>
+  <h1>FY27: shift <span class="hl">~$3M (15%)</span> from unbranded capture to demand creation
+      → target <span class="hl">+285 S1 opps</span> (+20%)</h1>
+  <div class="sub">Baseline: ~$20M paid run-rate proxy (3.7M annualized paid visits × $5.50 benchmark cost/visit — no spend
+       data in extract; recommendation is a % shift, robust across the $4–8 benchmark range).</div>
+
+  <div class="cols">
+    <div class="col" style="flex: 1.15;">
+      <div class="sect">Where the $3M goes</div>
+      <table class="alloc">
+        <tr><th>Investment</th><th>$</th><th>Evidence</th></tr>
+        <tr><td class="what">Quarterly Fin brand moments<br><span style="font-weight:400;color:var(--gray);font-size:12px">launch-grade campaigns · events · PR</span></td>
+            <td class="amt">$1.5M</td>
+            <td class="why">Sep ’25 moment: 5.7× sustained Fin traffic, +20% S1 q/q</td></tr>
+        <tr><td class="what">EMEA brand program (SB / MM)</td>
+            <td class="amt">$0.9M</td>
+            <td class="why">Pipeline share already matches traffic share; SB 11.8% / MM 8.8% S1 — proven conversion</td></tr>
+        <tr><td class="what">APAC activation fix + localized test</td>
+            <td class="amt">$0.3M</td>
+            <td class="why">17% of warm traffic → 2.7% of S1s; repair the leak before scaling spend</td></tr>
+        <tr><td class="what">Organic/content + Powered By recovery</td>
+            <td class="amt">$0.3M</td>
+            <td class="why">Organic = best efficiency (30.5 conv/1k); PB break cost 72% of free reach</td></tr>
+        <tr class="total"><td>Total — funded by trimming the <i>least-efficient marginal</i> paid capture</td>
+            <td class="amt">$3.0M</td><td></td></tr>
+      </table>
+      <div class="ret">
+        <div class="big">+285 S1 opportunities / year (+20%)</div>
+        <p>From recovering <b>half</b> the warm-traffic decline at the current 8.6% S1 rate.
+           Sensitivity: +215/yr at the old 6.5% rate · +570/yr on full recovery.
+           Recovery is already starting (Apr–May ’26 +3.8% YoY).</p>
+      </div>
+    </div>
+    <div class="col">
+      <div class="sect">Guardrails — for the VP Demand Gen</div>
+      <ul class="mini">
+        <li><b>Branded-search floor stays funded.</b> Cuts come only from unbranded capture, where marginal efficiency already fell 24%.</li>
+        <li><b>Quarterly stage gates</b> on leading indicators (warm visits, warm intent visits) with pre-agreed rollback triggers.</li>
+        <li><b>Measured on pipeline, not impressions:</b> inbound core MQLs and S1s are the success metrics.</li>
+      </ul>
+      <div class="sect">Zero-cost accelerators (start day 1)</div>
+      <ul class="mini">
+        <li><b>Fix UTM capture</b> — 99.6% of MQLs are channel-blind; every ROI debate is unwinnable until this lands.</li>
+        <li><b>Enrich the 17% “Unknown-segment” MQLs</b> (5,625 leads, zero S1 credit) — free pipeline via routing.</li>
+        <li><b>Diagnose ENT conversion:</b> only growing segment (MQLs +34% YoY) but 2.9% S1 — rising Fin demand our motion isn’t converting.</li>
+      </ul>
+      <div class="sect">Region posture</div>
+      <ul class="mini">
+        <li><b>NAMER</b> maintain (brand over-delivers: 63% of S1s on 42% of traffic) · <b>EMEA</b> grow · <b>APAC</b> fix-then-grow · <b>LATAM</b> watch.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div>Full methodology, assumption log (A1–A10) and reproducible code: ANALYSIS.md · analysis.py · sql/queries.sql.</div>
+    <div class="pageno">3</div>
+  </div>
+</section>
+
+</body>
+</html>

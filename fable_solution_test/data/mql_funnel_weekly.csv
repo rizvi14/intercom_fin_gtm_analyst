@@ -1,0 +1,1613 @@
+week_start,region,company_reporting_segment,sales_motion,mql_type,core_noncore,total_mqls,engaged_mqls,s1_conversions,s2_conversions
+2024-12-02,APAC,Unknown,inbound,MQL-Demo,core,20,3,0,0
+2024-12-02,APAC,VSB,inbound,MQL-Demo,core,14,2,1,1
+2024-12-02,EMEA,ENT,inbound,MQL-Demo,core,11,4,2,1
+2024-12-02,EMEA,MM,inbound,MQL-Demo,core,13,2,1,1
+2024-12-02,EMEA,MM,inbound,MQL-Trial,core,15,1,0,0
+2024-12-02,EMEA,SB,inbound,MQL-Demo,core,15,5,1,1
+2024-12-02,EMEA,Unknown,inbound,MQL-Demo,core,36,3,0,0
+2024-12-02,EMEA,VSB,inbound,MQL-Contact Sales,core,14,11,4,3
+2024-12-02,EMEA,VSB,inbound,MQL-Demo,core,41,13,3,2
+2024-12-02,NAMER,ENT,inbound,MQL-Demo,core,21,2,1,1
+2024-12-02,NAMER,MM,inbound,MQL-Demo,core,25,3,2,2
+2024-12-02,NAMER,MM,inbound,MQL-Trial,core,18,3,1,1
+2024-12-02,NAMER,SB,inbound,MQL-Contact Sales,core,10,7,5,5
+2024-12-02,NAMER,SB,inbound,MQL-Demo,core,21,5,2,2
+2024-12-02,NAMER,SB,inbound,MQL-Trial,core,13,3,1,1
+2024-12-02,NAMER,SB,inbound,MQL-Webinar,non-core,11,2,0,0
+2024-12-02,NAMER,Unknown,inbound,MQL-Demo,core,38,2,0,0
+2024-12-02,NAMER,VSB,inbound,MQL-Demo,core,39,7,3,2
+2024-12-09,APAC,Unknown,inbound,MQL-Demo,core,19,2,0,0
+2024-12-09,APAC,VSB,inbound,MQL-Demo,core,16,2,1,1
+2024-12-09,EMEA,ENT,inbound,MQL-Demo,core,11,2,0,0
+2024-12-09,EMEA,MM,inbound,MQL-Demo,core,15,2,2,2
+2024-12-09,EMEA,SB,inbound,MQL-Demo,core,26,7,4,4
+2024-12-09,EMEA,SB,inbound,MQL-Trial,core,12,4,2,2
+2024-12-09,EMEA,Unknown,inbound,MQL-Contact Sales,core,12,9,0,0
+2024-12-09,EMEA,Unknown,inbound,MQL-Demo,core,54,5,0,0
+2024-12-09,EMEA,VSB,inbound,MQL-Contact Sales,core,11,4,3,2
+2024-12-09,EMEA,VSB,inbound,MQL-Demo,core,26,9,2,0
+2024-12-09,NAMER,ENT,inbound,MQL-Demo,core,30,0,0,0
+2024-12-09,NAMER,MM,inbound,MQL-Demo,core,24,9,4,4
+2024-12-09,NAMER,MM,inbound,MQL-Trial,core,12,2,0,0
+2024-12-09,NAMER,SB,inbound,MQL-Contact Sales,core,11,9,5,4
+2024-12-09,NAMER,SB,inbound,MQL-Demo,core,28,9,4,4
+2024-12-09,NAMER,Unknown,inbound,MQL-Demo,core,49,0,0,0
+2024-12-09,NAMER,VSB,inbound,MQL-Contact Sales,core,15,11,1,1
+2024-12-09,NAMER,VSB,inbound,MQL-Demo,core,41,15,5,4
+2024-12-16,APAC,Unknown,inbound,MQL-Demo,core,14,0,0,0
+2024-12-16,APAC,VSB,inbound,MQL-Demo,core,11,2,2,2
+2024-12-16,EMEA,ENT,inbound,MQL-Demo,core,12,1,0,0
+2024-12-16,EMEA,MM,inbound,MQL-Demo,core,15,5,1,1
+2024-12-16,EMEA,SB,inbound,MQL-Demo,core,23,13,5,3
+2024-12-16,EMEA,SB,inbound,MQL-Trial,core,11,4,2,2
+2024-12-16,EMEA,Unknown,inbound,MQL-Demo,core,42,3,0,0
+2024-12-16,EMEA,VSB,inbound,MQL-Demo,core,44,12,2,0
+2024-12-16,NAMER,ENT,inbound,MQL-Demo,core,19,0,0,0
+2024-12-16,NAMER,MM,inbound,MQL-Demo,core,19,6,0,0
+2024-12-16,NAMER,MM,inbound,MQL-Trial,core,34,3,2,1
+2024-12-16,NAMER,SB,inbound,MQL-Demo,core,22,7,4,4
+2024-12-16,NAMER,SB,inbound,MQL-Trial,core,13,0,0,0
+2024-12-16,NAMER,Unknown,inbound,MQL-Demo,core,50,2,0,0
+2024-12-16,NAMER,VSB,inbound,MQL-Contact Sales,core,12,7,5,4
+2024-12-16,NAMER,VSB,inbound,MQL-Demo,core,30,10,1,1
+2024-12-23,APAC,Unknown,inbound,MQL-Demo,core,11,1,0,0
+2024-12-23,EMEA,SB,inbound,MQL-Demo,core,12,2,0,0
+2024-12-23,EMEA,Unknown,inbound,MQL-Demo,core,20,1,0,0
+2024-12-23,EMEA,VSB,inbound,MQL-Demo,core,11,1,0,0
+2024-12-23,NAMER,ENT,inbound,MQL-Demo,core,17,0,0,0
+2024-12-23,NAMER,MM,inbound,MQL-Demo,core,12,0,0,0
+2024-12-23,NAMER,MM,inbound,MQL-Trial,core,13,1,0,0
+2024-12-23,NAMER,SB,inbound,MQL-Demo,core,10,2,0,0
+2024-12-23,NAMER,Unknown,inbound,MQL-Demo,core,23,1,0,0
+2024-12-23,NAMER,VSB,inbound,MQL-Demo,core,14,1,1,1
+2024-12-30,APAC,Unknown,inbound,MQL-Demo,core,14,2,0,0
+2024-12-30,EMEA,MM,inbound,MQL-Demo,core,13,3,2,1
+2024-12-30,EMEA,SB,inbound,MQL-Demo,core,15,5,5,4
+2024-12-30,EMEA,Unknown,inbound,MQL-Demo,core,33,3,0,0
+2024-12-30,EMEA,VSB,inbound,MQL-Demo,core,17,5,1,0
+2024-12-30,NAMER,ENT,inbound,MQL-Demo,core,12,1,1,1
+2024-12-30,NAMER,MM,inbound,MQL-Demo,core,19,4,0,0
+2024-12-30,NAMER,SB,inbound,MQL-Demo,core,19,5,4,3
+2024-12-30,NAMER,Unknown,inbound,MQL-Demo,core,34,3,0,0
+2024-12-30,NAMER,VSB,inbound,MQL-Demo,core,25,6,2,1
+2025-01-06,APAC,Unknown,inbound,MQL-Demo,core,17,1,0,0
+2025-01-06,APAC,VSB,inbound,MQL-Demo,core,10,2,1,1
+2025-01-06,EMEA,ENT,inbound,MQL-Demo,core,15,2,0,0
+2025-01-06,EMEA,MM,inbound,MQL-Demo,core,26,9,5,4
+2025-01-06,EMEA,SB,inbound,MQL-Demo,core,31,15,5,4
+2025-01-06,EMEA,SB,inbound,MQL-Trial,core,13,4,2,1
+2025-01-06,EMEA,Unknown,inbound,MQL-Demo,core,43,9,0,0
+2025-01-06,EMEA,VSB,inbound,MQL-Contact Sales,core,10,8,4,3
+2025-01-06,EMEA,VSB,inbound,MQL-Demo,core,44,14,3,3
+2025-01-06,NAMER,ENT,inbound,MQL-Demo,core,26,2,1,0
+2025-01-06,NAMER,MM,inbound,MQL-Demo,core,30,7,3,2
+2025-01-06,NAMER,SB,inbound,MQL-Contact Sales,core,10,9,4,4
+2025-01-06,NAMER,SB,inbound,MQL-Demo,core,26,5,4,4
+2025-01-06,NAMER,SB,inbound,MQL-Trial,core,14,3,2,2
+2025-01-06,NAMER,Unknown,inbound,MQL-Demo,core,56,3,0,0
+2025-01-06,NAMER,VSB,inbound,MQL-Contact Sales,core,20,15,7,7
+2025-01-06,NAMER,VSB,inbound,MQL-Demo,core,36,8,3,2
+2025-01-13,APAC,ENT,inbound,MQL-Demo,core,11,2,0,0
+2025-01-13,APAC,SB,inbound,MQL-Demo,core,13,1,0,0
+2025-01-13,APAC,Unknown,inbound,MQL-Demo,core,19,0,0,0
+2025-01-13,APAC,VSB,inbound,MQL-Demo,core,22,7,2,2
+2025-01-13,EMEA,ENT,inbound,MQL-Demo,core,29,4,1,1
+2025-01-13,EMEA,MM,inbound,MQL-Demo,core,25,8,3,3
+2025-01-13,EMEA,MM,inbound,MQL-Trial,core,11,3,2,1
+2025-01-13,EMEA,SB,inbound,MQL-Demo,core,32,10,3,3
+2025-01-13,EMEA,SB,inbound,MQL-Trial,core,12,5,3,3
+2025-01-13,EMEA,Unknown,inbound,MQL-Demo,core,31,7,0,0
+2025-01-13,EMEA,VSB,inbound,MQL-Contact Sales,core,15,11,8,4
+2025-01-13,EMEA,VSB,inbound,MQL-Demo,core,45,20,2,2
+2025-01-13,NAMER,ENT,inbound,MQL-Demo,core,31,0,0,0
+2025-01-13,NAMER,MM,inbound,MQL-Contact Sales,core,16,10,6,5
+2025-01-13,NAMER,MM,inbound,MQL-Demo,core,41,2,0,0
+2025-01-13,NAMER,MM,inbound,MQL-Trial,core,12,2,1,1
+2025-01-13,NAMER,SB,inbound,MQL-Demo,core,40,13,5,4
+2025-01-13,NAMER,Unknown,inbound,MQL-Demo,core,58,6,0,0
+2025-01-13,NAMER,VSB,inbound,MQL-Contact Sales,core,14,7,7,5
+2025-01-13,NAMER,VSB,inbound,MQL-Demo,core,40,11,3,3
+2025-01-20,APAC,ENT,inbound,MQL-Demo,core,10,2,0,0
+2025-01-20,APAC,Unknown,inbound,MQL-Demo,core,15,1,0,0
+2025-01-20,APAC,VSB,inbound,MQL-Demo,core,13,2,4,4
+2025-01-20,EMEA,ENT,inbound,MQL-Demo,core,22,2,1,1
+2025-01-20,EMEA,MM,inbound,MQL-Demo,core,15,5,3,3
+2025-01-20,EMEA,MM,inbound,MQL-Trial,core,12,3,1,1
+2025-01-20,EMEA,SB,inbound,MQL-Demo,core,27,13,3,3
+2025-01-20,EMEA,SB,inbound,MQL-Trial,core,13,3,0,0
+2025-01-20,EMEA,Unknown,inbound,MQL-Demo,core,54,12,0,0
+2025-01-20,EMEA,VSB,inbound,MQL-Contact Sales,core,15,13,6,3
+2025-01-20,EMEA,VSB,inbound,MQL-Demo,core,50,21,5,3
+2025-01-20,NAMER,ENT,inbound,MQL-Demo,core,21,2,2,2
+2025-01-20,NAMER,MM,inbound,MQL-Demo,core,27,3,0,0
+2025-01-20,NAMER,SB,inbound,MQL-Contact Sales,core,12,8,3,3
+2025-01-20,NAMER,SB,inbound,MQL-Demo,core,31,7,3,3
+2025-01-20,NAMER,SB,inbound,MQL-Trial,core,15,3,1,1
+2025-01-20,NAMER,Unknown,inbound,MQL-Demo,core,50,3,0,0
+2025-01-20,NAMER,VSB,inbound,MQL-Contact Sales,core,17,11,7,6
+2025-01-20,NAMER,VSB,inbound,MQL-Demo,core,45,17,7,5
+2025-01-27,APAC,MM,inbound,MQL-Nurture,non-core,40,2,1,1
+2025-01-27,APAC,SB,inbound,MQL-Nurture,non-core,22,0,0,0
+2025-01-27,EMEA,MM,inbound,MQL-Demo,core,10,3,1,1
+2025-01-27,EMEA,MM,inbound,MQL-Nurture,non-core,29,3,1,1
+2025-01-27,EMEA,SB,inbound,MQL-Nurture,non-core,30,3,1,0
+2025-01-27,EMEA,SB,inbound,MQL-Trial,core,13,3,0,0
+2025-01-27,EMEA,Unknown,inbound,MQL-Contact Sales,core,10,5,0,0
+2025-01-27,EMEA,Unknown,inbound,MQL-Demo,core,13,3,0,0
+2025-01-27,EMEA,VSB,inbound,MQL-Contact Sales,core,13,10,6,5
+2025-01-27,EMEA,VSB,inbound,MQL-Demo,core,18,4,0,0
+2025-01-27,EMEA,VSB,inbound,MQL-Nurture,non-core,12,3,1,1
+2025-01-27,EMEA,VSB,inbound,MQL-Trial,core,23,3,0,0
+2025-01-27,NAMER,ENT,inbound,MQL-Nurture,non-core,12,0,0,0
+2025-01-27,NAMER,MM,inbound,MQL-Contact Sales,core,12,9,9,8
+2025-01-27,NAMER,MM,inbound,MQL-Demo,core,16,1,0,0
+2025-01-27,NAMER,MM,inbound,MQL-Nurture,non-core,60,2,0,0
+2025-01-27,NAMER,MM,outbound,MQL-Nurture,non-core,16,3,0,0
+2025-01-27,NAMER,SB,inbound,MQL-Nurture,non-core,72,7,1,1
+2025-01-27,NAMER,Unknown,inbound,MQL-Contact Sales,core,11,2,0,0
+2025-01-27,NAMER,VSB,inbound,MQL-Contact Sales,core,20,8,3,3
+2025-01-27,NAMER,VSB,inbound,MQL-Demo,core,20,3,1,0
+2025-01-27,NAMER,VSB,inbound,MQL-Nurture,non-core,14,2,1,1
+2025-01-27,NAMER,VSB,inbound,MQL-Trial,core,13,2,0,0
+2025-02-03,APAC,MM,inbound,MQL-Demo,core,10,0,0,0
+2025-02-03,APAC,SB,inbound,MQL-Demo,core,10,3,0,0
+2025-02-03,APAC,Unknown,inbound,MQL-Demo,core,23,3,0,0
+2025-02-03,APAC,VSB,inbound,MQL-Contact Sales,core,10,7,2,2
+2025-02-03,APAC,VSB,inbound,MQL-Demo,core,21,1,0,0
+2025-02-03,EMEA,ENT,inbound,MQL-Demo,core,19,2,2,1
+2025-02-03,EMEA,MM,inbound,MQL-Demo,core,40,10,5,4
+2025-02-03,EMEA,MM,inbound,MQL-Trial,core,11,1,0,0
+2025-02-03,EMEA,SB,inbound,MQL-Demo,core,42,11,6,6
+2025-02-03,EMEA,SB,inbound,MQL-Trial,core,17,2,0,0
+2025-02-03,EMEA,Unknown,inbound,MQL-Demo,core,90,7,0,0
+2025-02-03,EMEA,VSB,inbound,MQL-Contact Sales,core,14,10,3,2
+2025-02-03,EMEA,VSB,inbound,MQL-Demo,core,64,17,3,1
+2025-02-03,NAMER,ENT,inbound,MQL-Demo,core,50,2,2,2
+2025-02-03,NAMER,ENT,inbound,MQL-Trial,core,17,1,1,1
+2025-02-03,NAMER,MM,inbound,MQL-Demo,core,57,7,2,2
+2025-02-03,NAMER,MM,inbound,MQL-Nurture,non-core,12,1,0,0
+2025-02-03,NAMER,MM,inbound,MQL-Trial,core,13,3,0,0
+2025-02-03,NAMER,MM,outbound,MQL-Demo,core,11,3,2,2
+2025-02-03,NAMER,SB,inbound,MQL-Demo,core,55,8,2,2
+2025-02-03,NAMER,SB,inbound,MQL-Trial,core,13,3,0,0
+2025-02-03,NAMER,Unknown,inbound,MQL-Demo,core,96,0,0,0
+2025-02-03,NAMER,VSB,inbound,MQL-Contact Sales,core,21,12,7,5
+2025-02-03,NAMER,VSB,inbound,MQL-Demo,core,72,16,2,1
+2025-02-10,APAC,SB,inbound,MQL-Demo,core,16,3,1,1
+2025-02-10,APAC,Unknown,inbound,MQL-Demo,core,14,1,0,0
+2025-02-10,APAC,VSB,inbound,MQL-Demo,core,13,2,2,2
+2025-02-10,EMEA,ENT,inbound,MQL-Demo,core,15,2,2,2
+2025-02-10,EMEA,MM,inbound,MQL-Demo,core,36,8,3,3
+2025-02-10,EMEA,MM,inbound,MQL-Trial,core,12,2,0,0
+2025-02-10,EMEA,SB,inbound,MQL-Demo,core,34,14,4,2
+2025-02-10,EMEA,SB,inbound,MQL-Trial,core,13,3,1,1
+2025-02-10,EMEA,Unknown,inbound,MQL-Demo,core,64,9,0,0
+2025-02-10,EMEA,VSB,inbound,MQL-Demo,core,43,15,1,1
+2025-02-10,LATAM,SB,inbound,MQL-Demo,core,11,3,1,1
+2025-02-10,NAMER,ENT,inbound,MQL-Demo,core,29,1,0,0
+2025-02-10,NAMER,ENT,inbound,MQL-Trial,core,12,3,0,0
+2025-02-10,NAMER,MM,inbound,MQL-Demo,core,51,9,1,1
+2025-02-10,NAMER,MM,inbound,MQL-Trial,core,21,5,1,1
+2025-02-10,NAMER,MM,inbound,MQL-Webinar,non-core,10,1,0,0
+2025-02-10,NAMER,SB,inbound,MQL-Demo,core,47,10,5,5
+2025-02-10,NAMER,SB,inbound,MQL-Trial,core,20,3,2,1
+2025-02-10,NAMER,Unknown,inbound,MQL-Demo,core,75,1,0,0
+2025-02-10,NAMER,VSB,inbound,MQL-Contact Sales,core,17,10,1,1
+2025-02-10,NAMER,VSB,inbound,MQL-Demo,core,59,10,4,4
+2025-02-17,APAC,MM,inbound,MQL-Demo,core,11,0,1,0
+2025-02-17,APAC,Unknown,inbound,MQL-Demo,core,17,4,0,0
+2025-02-17,EMEA,ENT,inbound,MQL-Demo,core,21,3,1,1
+2025-02-17,EMEA,MM,inbound,MQL-Demo,core,22,10,0,0
+2025-02-17,EMEA,MM,inbound,MQL-Trial,core,11,1,1,0
+2025-02-17,EMEA,SB,inbound,MQL-Contact Sales,core,10,6,3,2
+2025-02-17,EMEA,SB,inbound,MQL-Demo,core,22,7,3,2
+2025-02-17,EMEA,SB,inbound,MQL-Trial,core,12,4,0,0
+2025-02-17,EMEA,Unknown,inbound,MQL-Contact Sales,core,15,2,0,0
+2025-02-17,EMEA,Unknown,inbound,MQL-Demo,core,49,3,0,0
+2025-02-17,EMEA,VSB,inbound,MQL-Demo,core,24,5,1,1
+2025-02-17,NAMER,ENT,inbound,MQL-Demo,core,28,3,1,1
+2025-02-17,NAMER,ENT,inbound,MQL-Trial,core,14,2,0,0
+2025-02-17,NAMER,MM,inbound,MQL-Contact Sales,core,12,8,4,4
+2025-02-17,NAMER,MM,inbound,MQL-Demo,core,28,6,4,4
+2025-02-17,NAMER,MM,inbound,MQL-Trial,core,15,3,1,1
+2025-02-17,NAMER,SB,inbound,MQL-Demo,core,39,14,5,5
+2025-02-17,NAMER,SB,inbound,MQL-Trial,core,17,7,2,2
+2025-02-17,NAMER,Unknown,inbound,MQL-Demo,core,49,1,0,0
+2025-02-17,NAMER,VSB,inbound,MQL-Contact Sales,core,17,12,6,6
+2025-02-17,NAMER,VSB,inbound,MQL-Demo,core,53,13,3,3
+2025-02-24,APAC,MM,inbound,MQL-Demo,core,11,1,0,0
+2025-02-24,APAC,Unknown,inbound,MQL-Demo,core,13,0,0,0
+2025-02-24,EMEA,ENT,inbound,MQL-Demo,core,19,6,1,1
+2025-02-24,EMEA,MM,inbound,MQL-Demo,core,19,3,1,0
+2025-02-24,EMEA,MM,inbound,MQL-Trial,core,15,5,1,0
+2025-02-24,EMEA,SB,inbound,MQL-Demo,core,38,18,3,3
+2025-02-24,EMEA,SB,inbound,MQL-Trial,core,12,3,0,0
+2025-02-24,EMEA,Unknown,inbound,MQL-Demo,core,46,10,0,0
+2025-02-24,EMEA,VSB,inbound,MQL-Demo,core,39,17,7,4
+2025-02-24,EMEA,VSB,inbound,MQL-Trial,core,10,1,0,0
+2025-02-24,NAMER,ENT,inbound,MQL-Demo,core,26,5,2,2
+2025-02-24,NAMER,MM,inbound,MQL-Demo,core,31,8,4,4
+2025-02-24,NAMER,MM,inbound,MQL-Trial,core,13,3,0,0
+2025-02-24,NAMER,MM,outbound,MQL-Demo,core,10,2,1,1
+2025-02-24,NAMER,SB,inbound,MQL-Demo,core,39,6,2,2
+2025-02-24,NAMER,SB,inbound,MQL-Trial,core,14,3,0,0
+2025-02-24,NAMER,Unknown,inbound,MQL-Contact Sales,core,12,1,0,0
+2025-02-24,NAMER,Unknown,inbound,MQL-Demo,core,43,5,0,0
+2025-02-24,NAMER,VSB,inbound,MQL-Contact Sales,core,11,6,2,1
+2025-02-24,NAMER,VSB,inbound,MQL-Demo,core,52,19,4,4
+2025-03-03,APAC,MM,inbound,MQL-Trial,core,10,1,0,0
+2025-03-03,APAC,Unknown,inbound,MQL-Demo,core,13,0,0,0
+2025-03-03,APAC,VSB,inbound,MQL-Demo,core,10,6,0,0
+2025-03-03,EMEA,ENT,inbound,MQL-Demo,core,21,3,0,0
+2025-03-03,EMEA,MM,inbound,MQL-Demo,core,19,7,2,1
+2025-03-03,EMEA,MM,inbound,MQL-Trial,core,10,0,1,1
+2025-03-03,EMEA,SB,inbound,MQL-Demo,core,20,6,1,1
+2025-03-03,EMEA,SB,inbound,MQL-Trial,core,16,7,3,3
+2025-03-03,EMEA,Unknown,inbound,MQL-Contact Sales,core,14,1,0,0
+2025-03-03,EMEA,Unknown,inbound,MQL-Demo,core,45,6,0,0
+2025-03-03,EMEA,VSB,inbound,MQL-Contact Sales,core,10,4,4,4
+2025-03-03,EMEA,VSB,inbound,MQL-Demo,core,26,11,2,1
+2025-03-03,NAMER,ENT,inbound,MQL-Demo,core,24,2,1,0
+2025-03-03,NAMER,MM,inbound,MQL-Demo,core,29,5,4,4
+2025-03-03,NAMER,MM,inbound,MQL-Trial,core,12,2,3,2
+2025-03-03,NAMER,SB,inbound,MQL-Contact Sales,core,10,6,2,2
+2025-03-03,NAMER,SB,inbound,MQL-Demo,core,29,8,5,5
+2025-03-03,NAMER,SB,inbound,MQL-Trial,core,17,6,1,1
+2025-03-03,NAMER,Unknown,inbound,MQL-Demo,core,39,1,0,0
+2025-03-03,NAMER,VSB,inbound,MQL-Contact Sales,core,18,12,1,0
+2025-03-03,NAMER,VSB,inbound,MQL-Demo,core,44,9,4,3
+2025-03-10,APAC,ENT,inbound,MQL-Demo,core,10,1,1,1
+2025-03-10,APAC,MM,inbound,MQL-Demo,core,10,2,1,1
+2025-03-10,APAC,Unknown,inbound,MQL-Demo,core,19,0,0,0
+2025-03-10,EMEA,ENT,inbound,MQL-Demo,core,16,1,1,1
+2025-03-10,EMEA,MM,inbound,MQL-Demo,core,24,7,4,4
+2025-03-10,EMEA,MM,inbound,MQL-Trial,core,15,2,0,0
+2025-03-10,EMEA,SB,inbound,MQL-Demo,core,19,7,2,1
+2025-03-10,EMEA,SB,inbound,MQL-Trial,core,18,2,1,0
+2025-03-10,EMEA,Unknown,inbound,MQL-Contact Sales,core,13,0,0,0
+2025-03-10,EMEA,Unknown,inbound,MQL-Demo,core,48,5,0,0
+2025-03-10,EMEA,VSB,inbound,MQL-Demo,core,36,14,2,2
+2025-03-10,NAMER,ENT,inbound,MQL-Demo,core,23,2,0,0
+2025-03-10,NAMER,MM,inbound,MQL-Demo,core,53,9,3,3
+2025-03-10,NAMER,MM,inbound,MQL-Trial,core,15,1,1,1
+2025-03-10,NAMER,SB,inbound,MQL-Demo,core,39,17,4,4
+2025-03-10,NAMER,SB,inbound,MQL-Trial,core,23,2,1,1
+2025-03-10,NAMER,Unknown,inbound,MQL-Contact Sales,core,14,2,0,0
+2025-03-10,NAMER,Unknown,inbound,MQL-Demo,core,50,4,0,0
+2025-03-10,NAMER,VSB,inbound,MQL-Contact Sales,core,10,3,0,0
+2025-03-10,NAMER,VSB,inbound,MQL-Demo,core,50,16,4,4
+2025-03-10,NAMER,VSB,inbound,MQL-Trial,core,21,6,3,3
+2025-03-17,APAC,VSB,inbound,MQL-Demo,core,19,3,3,3
+2025-03-17,EMEA,ENT,inbound,MQL-Demo,core,19,4,1,1
+2025-03-17,EMEA,MM,inbound,MQL-Demo,core,27,7,3,3
+2025-03-17,EMEA,MM,inbound,MQL-Trial,core,16,4,1,0
+2025-03-17,EMEA,SB,inbound,MQL-Demo,core,20,9,9,7
+2025-03-17,EMEA,SB,inbound,MQL-Trial,core,23,9,1,1
+2025-03-17,EMEA,Unknown,inbound,MQL-Contact Sales,core,13,2,0,0
+2025-03-17,EMEA,Unknown,inbound,MQL-Demo,core,48,8,0,0
+2025-03-17,EMEA,VSB,inbound,MQL-Demo,core,40,15,1,1
+2025-03-17,EMEA,VSB,inbound,MQL-Trial,core,15,1,0,0
+2025-03-17,NAMER,ENT,inbound,MQL-Demo,core,28,2,1,0
+2025-03-17,NAMER,MM,inbound,MQL-Demo,core,42,6,1,1
+2025-03-17,NAMER,MM,inbound,MQL-Trial,core,14,2,0,0
+2025-03-17,NAMER,MM,outbound,MQL-Demo,core,17,1,3,3
+2025-03-17,NAMER,SB,inbound,MQL-Demo,core,58,20,10,10
+2025-03-17,NAMER,SB,inbound,MQL-Trial,core,24,4,2,2
+2025-03-17,NAMER,Unknown,inbound,MQL-Demo,core,71,3,0,0
+2025-03-17,NAMER,Unknown,inbound,MQL-Trial,core,10,0,0,0
+2025-03-17,NAMER,VSB,inbound,MQL-Contact Sales,core,10,6,2,2
+2025-03-17,NAMER,VSB,inbound,MQL-Demo,core,65,19,4,3
+2025-03-17,NAMER,VSB,inbound,MQL-Trial,core,36,2,0,0
+2025-03-24,APAC,MM,inbound,MQL-Trial,core,10,0,0,0
+2025-03-24,APAC,Unknown,inbound,MQL-Demo,core,22,3,0,0
+2025-03-24,EMEA,ENT,inbound,MQL-Demo,core,24,2,0,0
+2025-03-24,EMEA,MM,inbound,MQL-Demo,core,20,4,2,2
+2025-03-24,EMEA,MM,inbound,MQL-Trial,core,19,4,0,0
+2025-03-24,EMEA,MM,inbound,MQL-Webinar,non-core,24,4,0,0
+2025-03-24,EMEA,SB,inbound,MQL-Demo,core,36,9,5,5
+2025-03-24,EMEA,SB,inbound,MQL-Trial,core,20,3,2,1
+2025-03-24,EMEA,SB,inbound,MQL-Webinar,non-core,31,3,1,0
+2025-03-24,EMEA,Unknown,inbound,MQL-Demo,core,43,12,0,0
+2025-03-24,EMEA,Unknown,inbound,MQL-Webinar,non-core,10,1,0,0
+2025-03-24,EMEA,VSB,inbound,MQL-Demo,core,41,15,6,6
+2025-03-24,EMEA,VSB,inbound,MQL-Trial,core,19,2,0,0
+2025-03-24,NAMER,ENT,inbound,MQL-Demo,core,31,2,1,0
+2025-03-24,NAMER,ENT,inbound,MQL-Trial,core,18,0,1,0
+2025-03-24,NAMER,MM,inbound,MQL-Demo,core,47,16,7,5
+2025-03-24,NAMER,MM,inbound,MQL-Trial,core,29,2,0,0
+2025-03-24,NAMER,MM,inbound,MQL-Webinar,non-core,28,2,2,2
+2025-03-24,NAMER,MM,outbound,MQL-Webinar,non-core,10,1,1,1
+2025-03-24,NAMER,SB,inbound,MQL-Demo,core,38,12,6,5
+2025-03-24,NAMER,SB,inbound,MQL-Trial,core,41,1,1,1
+2025-03-24,NAMER,SB,inbound,MQL-Webinar,non-core,25,5,0,0
+2025-03-24,NAMER,Unknown,inbound,MQL-Demo,core,62,2,0,0
+2025-03-24,NAMER,Unknown,inbound,MQL-Trial,core,11,0,0,0
+2025-03-24,NAMER,VSB,inbound,MQL-Demo,core,53,19,1,1
+2025-03-24,NAMER,VSB,inbound,MQL-Trial,core,26,1,0,0
+2025-03-31,APAC,Unknown,inbound,MQL-Demo,core,10,0,0,0
+2025-03-31,APAC,VSB,inbound,MQL-Demo,core,10,5,1,0
+2025-03-31,APAC,VSB,inbound,MQL-Trial,core,10,0,0,0
+2025-03-31,EMEA,ENT,inbound,MQL-Demo,core,12,3,0,0
+2025-03-31,EMEA,MM,inbound,MQL-Demo,core,26,8,1,0
+2025-03-31,EMEA,MM,inbound,MQL-Trial,core,15,1,0,0
+2025-03-31,EMEA,SB,inbound,MQL-Demo,core,21,6,2,1
+2025-03-31,EMEA,SB,inbound,MQL-Trial,core,19,4,1,1
+2025-03-31,EMEA,Unknown,inbound,MQL-Demo,core,38,7,0,0
+2025-03-31,EMEA,VSB,inbound,MQL-Demo,core,25,5,3,3
+2025-03-31,EMEA,VSB,inbound,MQL-Trial,core,28,1,0,0
+2025-03-31,NAMER,ENT,inbound,MQL-Demo,core,23,0,1,1
+2025-03-31,NAMER,ENT,inbound,MQL-Trial,core,13,0,0,0
+2025-03-31,NAMER,MM,inbound,MQL-Demo,core,53,6,2,2
+2025-03-31,NAMER,MM,inbound,MQL-Trial,core,16,2,2,1
+2025-03-31,NAMER,SB,inbound,MQL-Demo,core,45,15,6,6
+2025-03-31,NAMER,SB,inbound,MQL-Trial,core,22,2,0,0
+2025-03-31,NAMER,Unknown,inbound,MQL-Demo,core,60,5,0,0
+2025-03-31,NAMER,VSB,inbound,MQL-Contact Sales,core,25,10,3,2
+2025-03-31,NAMER,VSB,inbound,MQL-Demo,core,55,17,7,6
+2025-03-31,NAMER,VSB,inbound,MQL-Trial,core,25,1,0,0
+2025-04-07,APAC,MM,inbound,MQL-Demo,core,11,2,2,2
+2025-04-07,APAC,Unknown,inbound,MQL-Demo,core,11,0,0,0
+2025-04-07,APAC,VSB,inbound,MQL-Demo,core,14,0,0,0
+2025-04-07,EMEA,ENT,inbound,MQL-Demo,core,22,3,1,1
+2025-04-07,EMEA,MM,inbound,MQL-Demo,core,25,7,3,3
+2025-04-07,EMEA,MM,inbound,MQL-Trial,core,10,6,3,2
+2025-04-07,EMEA,SB,inbound,MQL-Demo,core,32,10,3,2
+2025-04-07,EMEA,SB,inbound,MQL-Trial,core,15,2,0,0
+2025-04-07,EMEA,Unknown,inbound,MQL-Contact Sales,core,11,2,0,0
+2025-04-07,EMEA,Unknown,inbound,MQL-Demo,core,50,4,0,0
+2025-04-07,EMEA,VSB,inbound,MQL-Demo,core,40,14,5,3
+2025-04-07,NAMER,ENT,inbound,MQL-Demo,core,26,4,3,2
+2025-04-07,NAMER,MM,inbound,MQL-Demo,core,42,8,3,1
+2025-04-07,NAMER,MM,inbound,MQL-Trial,core,10,1,1,1
+2025-04-07,NAMER,SB,inbound,MQL-Demo,core,50,14,2,2
+2025-04-07,NAMER,SB,inbound,MQL-Trial,core,18,4,0,0
+2025-04-07,NAMER,Unknown,inbound,MQL-Demo,core,47,3,0,0
+2025-04-07,NAMER,VSB,inbound,MQL-Demo,core,48,13,4,4
+2025-04-14,APAC,VSB,inbound,MQL-Demo,core,11,0,0,0
+2025-04-14,EMEA,ENT,inbound,MQL-Demo,core,12,3,3,3
+2025-04-14,EMEA,MM,inbound,MQL-Demo,core,17,3,1,1
+2025-04-14,EMEA,MM,inbound,MQL-Trial,core,12,2,2,2
+2025-04-14,EMEA,SB,inbound,MQL-Demo,core,12,2,1,1
+2025-04-14,EMEA,SB,inbound,MQL-Trial,core,13,3,2,2
+2025-04-14,EMEA,Unknown,inbound,MQL-Demo,core,25,2,0,0
+2025-04-14,EMEA,VSB,inbound,MQL-Demo,core,21,6,2,1
+2025-04-14,NAMER,ENT,inbound,MQL-Demo,core,21,0,0,0
+2025-04-14,NAMER,MM,inbound,MQL-Demo,core,24,6,3,2
+2025-04-14,NAMER,SB,inbound,MQL-Demo,core,14,4,0,0
+2025-04-14,NAMER,SB,inbound,MQL-Trial,core,13,1,1,1
+2025-04-14,NAMER,Unknown,inbound,MQL-Contact Sales,core,10,3,0,0
+2025-04-14,NAMER,Unknown,inbound,MQL-Demo,core,27,3,0,0
+2025-04-14,NAMER,VSB,inbound,MQL-Contact Sales,core,13,11,6,4
+2025-04-14,NAMER,VSB,inbound,MQL-Demo,core,36,6,3,2
+2025-04-14,NAMER,VSB,inbound,MQL-Trial,core,10,3,1,0
+2025-04-21,APAC,MM,inbound,MQL-Demo,core,13,0,0,0
+2025-04-21,APAC,SB,inbound,MQL-Demo,core,10,5,0,0
+2025-04-21,APAC,Unknown,inbound,MQL-Demo,core,12,0,0,0
+2025-04-21,APAC,VSB,inbound,MQL-Demo,core,18,1,1,1
+2025-04-21,EMEA,ENT,inbound,MQL-Demo,core,25,2,1,1
+2025-04-21,EMEA,MM,inbound,MQL-Demo,core,18,6,2,1
+2025-04-21,EMEA,MM,inbound,MQL-Trial,core,12,1,0,0
+2025-04-21,EMEA,SB,inbound,MQL-Demo,core,22,8,3,2
+2025-04-21,EMEA,SB,inbound,MQL-Trial,core,11,4,1,1
+2025-04-21,EMEA,Unknown,inbound,MQL-Demo,core,44,10,0,0
+2025-04-21,EMEA,VSB,inbound,MQL-Demo,core,40,10,3,3
+2025-04-21,NAMER,ENT,inbound,MQL-Demo,core,40,4,2,1
+2025-04-21,NAMER,ENT,inbound,MQL-Trial,core,13,0,1,1
+2025-04-21,NAMER,MM,inbound,MQL-Demo,core,51,7,3,2
+2025-04-21,NAMER,MM,inbound,MQL-Trial,core,11,2,1,1
+2025-04-21,NAMER,SB,inbound,MQL-Demo,core,46,15,6,5
+2025-04-21,NAMER,SB,inbound,MQL-Trial,core,17,3,1,1
+2025-04-21,NAMER,Unknown,inbound,MQL-Demo,core,69,6,0,0
+2025-04-21,NAMER,VSB,inbound,MQL-Contact Sales,core,10,5,1,1
+2025-04-21,NAMER,VSB,inbound,MQL-Demo,core,74,21,4,4
+2025-04-28,APAC,Unknown,inbound,MQL-Demo,core,12,1,0,0
+2025-04-28,APAC,VSB,inbound,MQL-Demo,core,11,3,2,1
+2025-04-28,EMEA,ENT,inbound,MQL-Demo,core,12,3,2,2
+2025-04-28,EMEA,MM,inbound,MQL-Demo,core,19,5,1,1
+2025-04-28,EMEA,SB,inbound,MQL-Demo,core,13,3,2,1
+2025-04-28,EMEA,Unknown,inbound,MQL-Demo,core,26,5,0,0
+2025-04-28,EMEA,VSB,inbound,MQL-Demo,core,23,6,3,2
+2025-04-28,NAMER,ENT,inbound,MQL-Demo,core,21,1,0,0
+2025-04-28,NAMER,MM,inbound,MQL-Demo,core,40,11,3,3
+2025-04-28,NAMER,MM,inbound,MQL-Trial,core,17,2,3,2
+2025-04-28,NAMER,SB,inbound,MQL-Demo,core,35,13,6,5
+2025-04-28,NAMER,SB,inbound,MQL-Trial,core,19,4,2,2
+2025-04-28,NAMER,Unknown,inbound,MQL-Demo,core,29,9,0,0
+2025-04-28,NAMER,VSB,inbound,MQL-Demo,core,50,9,5,5
+2025-05-05,APAC,SB,inbound,MQL-Demo,core,10,3,2,1
+2025-05-05,APAC,VSB,inbound,MQL-Demo,core,15,5,1,1
+2025-05-05,EMEA,ENT,inbound,MQL-Demo,core,15,3,1,1
+2025-05-05,EMEA,MM,inbound,MQL-Demo,core,16,6,1,0
+2025-05-05,EMEA,MM,inbound,MQL-Trial,core,11,3,1,1
+2025-05-05,EMEA,SB,inbound,MQL-Demo,core,19,4,0,0
+2025-05-05,EMEA,SB,inbound,MQL-Trial,core,10,1,2,2
+2025-05-05,EMEA,Unknown,inbound,MQL-Demo,core,28,6,0,0
+2025-05-05,EMEA,VSB,inbound,MQL-Demo,core,37,8,2,2
+2025-05-05,NAMER,ENT,inbound,MQL-Demo,core,20,1,0,0
+2025-05-05,NAMER,MM,inbound,MQL-Demo,core,31,9,5,4
+2025-05-05,NAMER,SB,inbound,MQL-Contact Sales,core,10,7,3,3
+2025-05-05,NAMER,SB,inbound,MQL-Demo,core,37,7,1,0
+2025-05-05,NAMER,SB,inbound,MQL-Trial,core,11,2,0,0
+2025-05-05,NAMER,Unknown,inbound,MQL-Demo,core,44,3,0,0
+2025-05-05,NAMER,VSB,inbound,MQL-Demo,core,40,8,2,1
+2025-05-12,APAC,SB,inbound,MQL-Demo,core,10,2,1,1
+2025-05-12,APAC,Unknown,inbound,MQL-Demo,core,14,0,0,0
+2025-05-12,APAC,VSB,inbound,MQL-Demo,core,14,4,3,2
+2025-05-12,EMEA,ENT,inbound,MQL-Demo,core,14,1,0,0
+2025-05-12,EMEA,MM,inbound,MQL-Demo,core,19,5,1,1
+2025-05-12,EMEA,MM,inbound,MQL-Trial,core,11,2,1,1
+2025-05-12,EMEA,SB,inbound,MQL-Demo,core,26,7,2,2
+2025-05-12,EMEA,SB,inbound,MQL-Trial,core,13,4,1,1
+2025-05-12,EMEA,Unknown,inbound,MQL-Demo,core,30,5,0,0
+2025-05-12,EMEA,VSB,inbound,MQL-Demo,core,33,6,1,1
+2025-05-12,LATAM,SB,inbound,MQL-Demo,core,11,2,3,3
+2025-05-12,NAMER,ENT,inbound,MQL-Demo,core,27,1,0,0
+2025-05-12,NAMER,MM,inbound,MQL-Demo,core,27,3,1,1
+2025-05-12,NAMER,MM,inbound,MQL-Trial,core,12,4,0,0
+2025-05-12,NAMER,SB,inbound,MQL-Demo,core,35,10,2,2
+2025-05-12,NAMER,Unknown,inbound,MQL-Demo,core,48,4,0,0
+2025-05-12,NAMER,VSB,inbound,MQL-Demo,core,41,6,1,1
+2025-05-19,APAC,SB,inbound,MQL-Demo,core,16,6,1,1
+2025-05-19,APAC,Unknown,inbound,MQL-Demo,core,10,1,0,0
+2025-05-19,EMEA,ENT,inbound,MQL-Demo,core,26,1,1,0
+2025-05-19,EMEA,ENT,inbound,MQL-Trial,core,11,1,0,0
+2025-05-19,EMEA,MM,inbound,MQL-Demo,core,16,7,3,2
+2025-05-19,EMEA,MM,inbound,MQL-Trial,core,24,6,2,2
+2025-05-19,EMEA,SB,inbound,MQL-Demo,core,26,7,1,1
+2025-05-19,EMEA,SB,inbound,MQL-Trial,core,16,2,1,1
+2025-05-19,EMEA,Unknown,inbound,MQL-Demo,core,40,8,0,0
+2025-05-19,EMEA,VSB,inbound,MQL-Contact Sales,core,10,7,2,2
+2025-05-19,EMEA,VSB,inbound,MQL-Demo,core,27,10,3,3
+2025-05-19,NAMER,ENT,inbound,MQL-Demo,core,28,2,1,1
+2025-05-19,NAMER,MM,inbound,MQL-Demo,core,32,10,6,5
+2025-05-19,NAMER,MM,inbound,MQL-Trial,core,20,5,1,1
+2025-05-19,NAMER,SB,inbound,MQL-Demo,core,27,13,6,6
+2025-05-19,NAMER,SB,inbound,MQL-Trial,core,18,3,0,0
+2025-05-19,NAMER,Unknown,inbound,MQL-Demo,core,47,4,0,0
+2025-05-19,NAMER,VSB,inbound,MQL-Demo,core,38,10,4,3
+2025-05-26,APAC,Unknown,inbound,MQL-Demo,core,12,1,0,0
+2025-05-26,EMEA,ENT,inbound,MQL-Demo,core,18,2,1,1
+2025-05-26,EMEA,MM,inbound,MQL-Demo,core,20,8,4,3
+2025-05-26,EMEA,SB,inbound,MQL-Demo,core,17,7,3,2
+2025-05-26,EMEA,SB,inbound,MQL-Trial,core,11,3,0,0
+2025-05-26,EMEA,Unknown,inbound,MQL-Demo,core,18,2,0,0
+2025-05-26,EMEA,VSB,inbound,MQL-Demo,core,22,7,0,0
+2025-05-26,NAMER,ENT,inbound,MQL-Demo,core,37,3,0,0
+2025-05-26,NAMER,MM,inbound,MQL-Demo,core,34,7,2,1
+2025-05-26,NAMER,MM,inbound,MQL-Trial,core,14,1,3,3
+2025-05-26,NAMER,MM,outbound,MQL-Demo,core,13,7,3,3
+2025-05-26,NAMER,SB,inbound,MQL-Contact Sales,core,12,8,7,5
+2025-05-26,NAMER,SB,inbound,MQL-Demo,core,35,13,3,3
+2025-05-26,NAMER,SB,inbound,MQL-Trial,core,18,7,2,2
+2025-05-26,NAMER,Unknown,inbound,MQL-Demo,core,44,4,0,0
+2025-05-26,NAMER,VSB,inbound,MQL-Demo,core,33,5,2,1
+2025-06-02,APAC,SB,inbound,MQL-Demo,core,10,2,1,1
+2025-06-02,EMEA,ENT,inbound,MQL-Demo,core,20,5,3,2
+2025-06-02,EMEA,MM,inbound,MQL-Demo,core,11,4,1,1
+2025-06-02,EMEA,SB,inbound,MQL-Demo,core,18,5,3,3
+2025-06-02,EMEA,Unknown,inbound,MQL-Demo,core,32,8,0,0
+2025-06-02,EMEA,VSB,inbound,MQL-Demo,core,34,10,7,5
+2025-06-02,NAMER,ENT,inbound,MQL-Demo,core,28,5,2,2
+2025-06-02,NAMER,MM,inbound,MQL-Demo,core,25,5,1,1
+2025-06-02,NAMER,SB,inbound,MQL-Contact Sales,core,12,8,4,4
+2025-06-02,NAMER,SB,inbound,MQL-Demo,core,28,8,3,3
+2025-06-02,NAMER,SB,inbound,MQL-Trial,core,10,2,1,0
+2025-06-02,NAMER,SB,inbound,MQL-Webinar,non-core,11,0,0,0
+2025-06-02,NAMER,Unknown,inbound,MQL-Contact Sales,core,11,6,0,0
+2025-06-02,NAMER,Unknown,inbound,MQL-Demo,core,28,2,0,0
+2025-06-02,NAMER,VSB,inbound,MQL-Demo,core,34,7,1,1
+2025-06-09,APAC,VSB,inbound,MQL-Demo,core,10,1,2,1
+2025-06-09,EMEA,MM,inbound,MQL-Demo,core,19,6,1,1
+2025-06-09,EMEA,SB,inbound,MQL-Demo,core,20,7,3,2
+2025-06-09,EMEA,Unknown,inbound,MQL-Demo,core,22,4,0,0
+2025-06-09,EMEA,VSB,inbound,MQL-Demo,core,22,10,2,2
+2025-06-09,NAMER,ENT,inbound,MQL-Demo,core,20,2,0,0
+2025-06-09,NAMER,MM,inbound,MQL-Demo,core,32,8,2,2
+2025-06-09,NAMER,SB,inbound,MQL-Demo,core,24,5,1,1
+2025-06-09,NAMER,Unknown,inbound,MQL-Demo,core,20,1,0,0
+2025-06-09,NAMER,VSB,inbound,MQL-Contact Sales,core,10,5,1,1
+2025-06-09,NAMER,VSB,inbound,MQL-Demo,core,26,6,3,3
+2025-06-16,APAC,ENT,inbound,MQL-Demo,core,11,0,0,0
+2025-06-16,APAC,MM,inbound,MQL-Demo,core,11,3,1,1
+2025-06-16,APAC,MM,inbound,MQL-Trial,core,10,3,0,0
+2025-06-16,APAC,SB,inbound,MQL-Trial,core,10,2,0,0
+2025-06-16,APAC,Unknown,inbound,MQL-Demo,core,19,0,0,0
+2025-06-16,APAC,VSB,inbound,MQL-Demo,core,11,2,0,0
+2025-06-16,EMEA,ENT,inbound,MQL-Demo,core,17,6,1,1
+2025-06-16,EMEA,MM,inbound,MQL-Demo,core,22,4,3,2
+2025-06-16,EMEA,MM,inbound,MQL-Trial,core,22,5,1,1
+2025-06-16,EMEA,SB,inbound,MQL-Demo,core,20,2,1,1
+2025-06-16,EMEA,SB,inbound,MQL-Trial,core,26,5,2,2
+2025-06-16,EMEA,Unknown,inbound,MQL-Demo,core,42,7,0,0
+2025-06-16,EMEA,VSB,inbound,MQL-Contact Sales,core,13,5,2,0
+2025-06-16,EMEA,VSB,inbound,MQL-Demo,core,28,8,1,1
+2025-06-16,EMEA,VSB,inbound,MQL-Trial,core,14,2,0,0
+2025-06-16,NAMER,ENT,inbound,MQL-Demo,core,32,3,1,1
+2025-06-16,NAMER,ENT,inbound,MQL-Event,non-core,43,8,1,1
+2025-06-16,NAMER,ENT,inbound,MQL-Trial,core,23,1,0,0
+2025-06-16,NAMER,MM,inbound,MQL-Demo,core,37,6,3,3
+2025-06-16,NAMER,MM,inbound,MQL-Event,non-core,20,2,0,0
+2025-06-16,NAMER,MM,inbound,MQL-Trial,core,35,4,2,2
+2025-06-16,NAMER,SB,inbound,MQL-Demo,core,37,9,3,3
+2025-06-16,NAMER,SB,inbound,MQL-Trial,core,30,10,3,3
+2025-06-16,NAMER,Unknown,inbound,MQL-Demo,core,51,8,0,0
+2025-06-16,NAMER,VSB,inbound,MQL-Contact Sales,core,10,7,3,3
+2025-06-16,NAMER,VSB,inbound,MQL-Demo,core,39,13,6,3
+2025-06-16,NAMER,VSB,inbound,MQL-Trial,core,20,3,1,1
+2025-06-23,APAC,ENT,inbound,MQL-Demo,core,10,2,0,0
+2025-06-23,APAC,MM,inbound,MQL-Demo,core,12,1,2,1
+2025-06-23,APAC,Unknown,inbound,MQL-Demo,core,11,0,0,0
+2025-06-23,APAC,VSB,inbound,MQL-Demo,core,12,3,1,1
+2025-06-23,EMEA,ENT,inbound,MQL-Webinar,non-core,13,0,0,0
+2025-06-23,EMEA,MM,inbound,MQL-Demo,core,23,6,1,1
+2025-06-23,EMEA,MM,inbound,MQL-Trial,core,14,4,2,1
+2025-06-23,EMEA,SB,inbound,MQL-Demo,core,23,7,3,1
+2025-06-23,EMEA,SB,inbound,MQL-Trial,core,19,5,1,1
+2025-06-23,EMEA,Unknown,inbound,MQL-Demo,core,35,5,0,0
+2025-06-23,EMEA,VSB,inbound,MQL-Demo,core,31,6,1,0
+2025-06-23,NAMER,ENT,inbound,MQL-Demo,core,36,1,0,0
+2025-06-23,NAMER,ENT,inbound,MQL-Trial,core,21,4,0,0
+2025-06-23,NAMER,ENT,inbound,MQL-Webinar,non-core,11,0,0,0
+2025-06-23,NAMER,MM,inbound,MQL-Demo,core,42,9,6,6
+2025-06-23,NAMER,MM,inbound,MQL-Trial,core,24,4,1,0
+2025-06-23,NAMER,MM,inbound,MQL-Webinar,non-core,11,0,0,0
+2025-06-23,NAMER,SB,inbound,MQL-Contact Sales,core,11,5,1,1
+2025-06-23,NAMER,SB,inbound,MQL-Demo,core,46,13,3,3
+2025-06-23,NAMER,SB,inbound,MQL-Trial,core,24,3,2,1
+2025-06-23,NAMER,Unknown,inbound,MQL-Contact Sales,core,11,1,0,0
+2025-06-23,NAMER,Unknown,inbound,MQL-Demo,core,39,4,0,0
+2025-06-23,NAMER,VSB,inbound,MQL-Contact Sales,core,10,8,2,0
+2025-06-23,NAMER,VSB,inbound,MQL-Demo,core,53,15,5,3
+2025-06-30,APAC,MM,inbound,MQL-Demo,core,13,1,1,1
+2025-06-30,EMEA,MM,inbound,MQL-Demo,core,24,7,0,0
+2025-06-30,EMEA,MM,inbound,MQL-Trial,core,10,2,0,0
+2025-06-30,EMEA,SB,inbound,MQL-Demo,core,11,4,2,2
+2025-06-30,EMEA,SB,inbound,MQL-Trial,core,30,7,0,0
+2025-06-30,EMEA,Unknown,inbound,MQL-Demo,core,36,7,0,0
+2025-06-30,EMEA,VSB,inbound,MQL-Demo,core,27,6,1,1
+2025-06-30,NAMER,ENT,inbound,MQL-Demo,core,23,2,0,0
+2025-06-30,NAMER,ENT,inbound,MQL-Trial,core,14,0,0,0
+2025-06-30,NAMER,MM,inbound,MQL-Contact Sales,core,11,9,8,8
+2025-06-30,NAMER,MM,inbound,MQL-Demo,core,25,4,4,3
+2025-06-30,NAMER,MM,inbound,MQL-Trial,core,20,3,0,0
+2025-06-30,NAMER,SB,inbound,MQL-Contact Sales,core,10,10,5,5
+2025-06-30,NAMER,SB,inbound,MQL-Demo,core,33,13,5,4
+2025-06-30,NAMER,SB,inbound,MQL-Trial,core,16,4,2,2
+2025-06-30,NAMER,Unknown,inbound,MQL-Contact Sales,core,10,2,0,0
+2025-06-30,NAMER,Unknown,inbound,MQL-Demo,core,39,4,0,0
+2025-06-30,NAMER,VSB,inbound,MQL-Contact Sales,core,12,5,4,3
+2025-06-30,NAMER,VSB,inbound,MQL-Demo,core,36,8,2,1
+2025-07-07,APAC,Unknown,inbound,MQL-Demo,core,15,1,0,0
+2025-07-07,EMEA,MM,inbound,MQL-Demo,core,26,11,4,3
+2025-07-07,EMEA,MM,inbound,MQL-Trial,core,16,5,3,2
+2025-07-07,EMEA,SB,inbound,MQL-Demo,core,25,10,2,0
+2025-07-07,EMEA,SB,inbound,MQL-Trial,core,22,9,2,1
+2025-07-07,EMEA,Unknown,inbound,MQL-Demo,core,51,4,0,0
+2025-07-07,EMEA,VSB,inbound,MQL-Demo,core,24,8,2,2
+2025-07-07,NAMER,ENT,inbound,MQL-Demo,core,19,2,2,2
+2025-07-07,NAMER,ENT,inbound,MQL-Trial,core,16,1,1,1
+2025-07-07,NAMER,MM,inbound,MQL-Contact Sales,core,14,8,4,4
+2025-07-07,NAMER,MM,inbound,MQL-Demo,core,39,12,4,2
+2025-07-07,NAMER,MM,inbound,MQL-Trial,core,19,6,1,0
+2025-07-07,NAMER,SB,inbound,MQL-Demo,core,36,10,4,3
+2025-07-07,NAMER,SB,inbound,MQL-Trial,core,29,9,1,0
+2025-07-07,NAMER,Unknown,inbound,MQL-Demo,core,59,4,0,0
+2025-07-07,NAMER,VSB,inbound,MQL-Contact Sales,core,15,10,5,3
+2025-07-07,NAMER,VSB,inbound,MQL-Demo,core,48,15,1,1
+2025-07-14,APAC,MM,inbound,MQL-Demo,core,10,4,2,2
+2025-07-14,APAC,VSB,inbound,MQL-Demo,core,10,4,0,0
+2025-07-14,EMEA,MM,inbound,MQL-Demo,core,14,4,3,3
+2025-07-14,EMEA,MM,inbound,MQL-Trial,core,22,4,1,1
+2025-07-14,EMEA,SB,inbound,MQL-Demo,core,17,7,2,1
+2025-07-14,EMEA,SB,inbound,MQL-Trial,core,18,3,1,1
+2025-07-14,EMEA,Unknown,inbound,MQL-Demo,core,31,6,0,0
+2025-07-14,EMEA,VSB,inbound,MQL-Contact Sales,core,12,9,3,1
+2025-07-14,EMEA,VSB,inbound,MQL-Demo,core,22,9,4,3
+2025-07-14,EMEA,VSB,inbound,MQL-Trial,core,12,2,0,0
+2025-07-14,NAMER,ENT,inbound,MQL-Demo,core,28,4,0,0
+2025-07-14,NAMER,ENT,inbound,MQL-Trial,core,13,0,0,0
+2025-07-14,NAMER,MM,inbound,MQL-Contact Sales,core,10,8,5,4
+2025-07-14,NAMER,MM,inbound,MQL-Demo,core,35,11,4,4
+2025-07-14,NAMER,MM,inbound,MQL-Trial,core,18,5,1,1
+2025-07-14,NAMER,MM,inbound,MQL-Webinar,non-core,14,3,1,1
+2025-07-14,NAMER,SB,inbound,MQL-Demo,core,35,8,2,0
+2025-07-14,NAMER,SB,inbound,MQL-Trial,core,27,9,2,2
+2025-07-14,NAMER,Unknown,inbound,MQL-Demo,core,53,7,0,0
+2025-07-14,NAMER,VSB,inbound,MQL-Demo,core,58,23,12,9
+2025-07-14,NAMER,VSB,inbound,MQL-Trial,core,13,1,1,1
+2025-07-21,APAC,SB,inbound,MQL-Demo,core,10,2,1,1
+2025-07-21,APAC,Unknown,inbound,MQL-Demo,core,17,1,0,0
+2025-07-21,EMEA,ENT,inbound,MQL-Demo,core,11,1,0,0
+2025-07-21,EMEA,MM,inbound,MQL-Demo,core,25,8,1,0
+2025-07-21,EMEA,MM,inbound,MQL-Trial,core,20,7,1,0
+2025-07-21,EMEA,SB,inbound,MQL-Demo,core,30,13,4,3
+2025-07-21,EMEA,SB,inbound,MQL-Trial,core,16,5,2,1
+2025-07-21,EMEA,SB,inbound,MQL-Webinar,non-core,13,1,0,0
+2025-07-21,EMEA,Unknown,inbound,MQL-Demo,core,48,10,0,0
+2025-07-21,EMEA,VSB,inbound,MQL-Demo,core,25,8,1,1
+2025-07-21,EMEA,VSB,inbound,MQL-Trial,core,10,2,0,0
+2025-07-21,NAMER,ENT,inbound,MQL-Demo,core,25,4,0,0
+2025-07-21,NAMER,MM,inbound,MQL-Demo,core,33,11,4,4
+2025-07-21,NAMER,MM,inbound,MQL-Trial,core,22,4,0,0
+2025-07-21,NAMER,MM,inbound,MQL-Webinar,non-core,14,1,0,0
+2025-07-21,NAMER,SB,inbound,MQL-Demo,core,40,11,3,3
+2025-07-21,NAMER,SB,inbound,MQL-Trial,core,22,6,1,1
+2025-07-21,NAMER,SB,inbound,MQL-Webinar,non-core,16,0,0,0
+2025-07-21,NAMER,Unknown,inbound,MQL-Demo,core,41,6,0,0
+2025-07-21,NAMER,VSB,inbound,MQL-Demo,core,55,26,5,3
+2025-07-21,NAMER,VSB,inbound,MQL-Trial,core,14,2,0,0
+2025-07-28,APAC,MM,inbound,MQL-Demo,core,10,1,0,0
+2025-07-28,APAC,Unknown,inbound,MQL-Demo,core,19,1,0,0
+2025-07-28,EMEA,ENT,inbound,MQL-Demo,core,12,1,1,1
+2025-07-28,EMEA,MM,inbound,MQL-Demo,core,22,10,2,1
+2025-07-28,EMEA,MM,inbound,MQL-Trial,core,15,4,0,0
+2025-07-28,EMEA,SB,inbound,MQL-Demo,core,16,4,1,0
+2025-07-28,EMEA,SB,inbound,MQL-Trial,core,17,5,0,0
+2025-07-28,EMEA,Unknown,inbound,MQL-Demo,core,33,6,0,0
+2025-07-28,EMEA,VSB,inbound,MQL-Demo,core,24,8,3,2
+2025-07-28,NAMER,ENT,inbound,MQL-Demo,core,35,5,1,1
+2025-07-28,NAMER,ENT,inbound,MQL-Trial,core,11,0,1,1
+2025-07-28,NAMER,MM,inbound,MQL-Demo,core,34,9,3,2
+2025-07-28,NAMER,MM,inbound,MQL-Trial,core,16,2,0,0
+2025-07-28,NAMER,SB,inbound,MQL-Demo,core,35,15,4,3
+2025-07-28,NAMER,SB,inbound,MQL-Trial,core,23,3,1,1
+2025-07-28,NAMER,Unknown,inbound,MQL-Demo,core,63,6,0,0
+2025-07-28,NAMER,VSB,inbound,MQL-Contact Sales,core,14,11,2,2
+2025-07-28,NAMER,VSB,inbound,MQL-Demo,core,42,18,4,4
+2025-07-28,NAMER,VSB,inbound,MQL-Trial,core,19,4,1,1
+2025-08-04,APAC,Unknown,inbound,MQL-Demo,core,17,0,0,0
+2025-08-04,APAC,VSB,inbound,MQL-Demo,core,10,2,1,1
+2025-08-04,EMEA,MM,inbound,MQL-Demo,core,23,3,1,1
+2025-08-04,EMEA,MM,inbound,MQL-Trial,core,11,3,0,0
+2025-08-04,EMEA,SB,inbound,MQL-Demo,core,20,6,2,1
+2025-08-04,EMEA,SB,inbound,MQL-Trial,core,13,3,0,0
+2025-08-04,EMEA,Unknown,inbound,MQL-Demo,core,32,7,0,0
+2025-08-04,EMEA,VSB,inbound,MQL-Demo,core,29,12,3,3
+2025-08-04,LATAM,VSB,inbound,MQL-Demo,core,10,3,1,1
+2025-08-04,NAMER,ENT,inbound,MQL-Demo,core,27,4,4,3
+2025-08-04,NAMER,ENT,inbound,MQL-Trial,core,13,3,1,1
+2025-08-04,NAMER,MM,inbound,MQL-Demo,core,43,11,4,2
+2025-08-04,NAMER,MM,inbound,MQL-Trial,core,20,1,0,0
+2025-08-04,NAMER,SB,inbound,MQL-Demo,core,25,9,3,3
+2025-08-04,NAMER,SB,inbound,MQL-Trial,core,18,7,1,1
+2025-08-04,NAMER,Unknown,inbound,MQL-Demo,core,39,9,0,0
+2025-08-04,NAMER,VSB,inbound,MQL-Demo,core,33,8,1,0
+2025-08-11,APAC,Unknown,inbound,MQL-Demo,core,15,0,0,0
+2025-08-11,APAC,VSB,inbound,MQL-Demo,core,12,3,1,1
+2025-08-11,EMEA,MM,inbound,MQL-Demo,core,16,4,4,4
+2025-08-11,EMEA,MM,inbound,MQL-Trial,core,10,0,0,0
+2025-08-11,EMEA,SB,inbound,MQL-Demo,core,26,8,3,1
+2025-08-11,EMEA,SB,inbound,MQL-Trial,core,19,5,0,0
+2025-08-11,EMEA,Unknown,inbound,MQL-Demo,core,32,7,0,0
+2025-08-11,EMEA,VSB,inbound,MQL-Contact Sales,core,10,5,3,3
+2025-08-11,EMEA,VSB,inbound,MQL-Demo,core,16,8,3,0
+2025-08-11,NAMER,ENT,inbound,MQL-Demo,core,22,5,1,1
+2025-08-11,NAMER,ENT,inbound,MQL-Trial,core,15,2,1,1
+2025-08-11,NAMER,MM,inbound,MQL-Contact Sales,core,10,9,4,4
+2025-08-11,NAMER,MM,inbound,MQL-Demo,core,31,10,5,4
+2025-08-11,NAMER,MM,inbound,MQL-Trial,core,25,8,1,1
+2025-08-11,NAMER,SB,inbound,MQL-Demo,core,33,11,6,5
+2025-08-11,NAMER,SB,inbound,MQL-Trial,core,17,3,3,2
+2025-08-11,NAMER,Unknown,inbound,MQL-Demo,core,48,2,0,0
+2025-08-11,NAMER,VSB,inbound,MQL-Demo,core,52,15,6,6
+2025-08-11,NAMER,VSB,inbound,MQL-Trial,core,13,2,1,0
+2025-08-18,APAC,ENT,inbound,MQL-Event,non-core,85,35,1,0
+2025-08-18,APAC,ENT,outbound,MQL-Event,non-core,31,3,0,0
+2025-08-18,APAC,MM,inbound,MQL-Event,non-core,182,59,4,2
+2025-08-18,APAC,MM,inbound,MQL-Trial,core,11,1,1,0
+2025-08-18,APAC,MM,outbound,MQL-Event,non-core,37,6,0,0
+2025-08-18,APAC,SB,inbound,MQL-Event,non-core,11,1,0,0
+2025-08-18,APAC,SB,inbound,MQL-Trial,core,13,1,0,0
+2025-08-18,APAC,SB,outbound,MQL-Event,non-core,26,14,2,2
+2025-08-18,APAC,Unknown,inbound,MQL-Event,non-core,13,3,0,0
+2025-08-18,APAC,VSB,inbound,MQL-Demo,core,11,4,1,1
+2025-08-18,APAC,VSB,inbound,MQL-Trial,core,16,2,2,2
+2025-08-18,EMEA,ENT,inbound,MQL-Demo,core,11,0,0,0
+2025-08-18,EMEA,ENT,inbound,MQL-Event,non-core,25,3,0,0
+2025-08-18,EMEA,MM,inbound,MQL-Demo,core,11,5,1,1
+2025-08-18,EMEA,MM,inbound,MQL-Trial,core,28,4,0,0
+2025-08-18,EMEA,SB,inbound,MQL-Demo,core,10,3,2,1
+2025-08-18,EMEA,SB,inbound,MQL-Trial,core,13,4,0,0
+2025-08-18,EMEA,Unknown,inbound,MQL-Demo,core,18,6,0,0
+2025-08-18,EMEA,VSB,inbound,MQL-Contact Sales,core,11,7,3,2
+2025-08-18,EMEA,VSB,inbound,MQL-Demo,core,13,4,3,2
+2025-08-18,EMEA,VSB,inbound,MQL-Trial,core,23,3,0,0
+2025-08-18,NAMER,ENT,inbound,MQL-Demo,core,18,1,0,0
+2025-08-18,NAMER,ENT,inbound,MQL-Event,non-core,34,0,0,0
+2025-08-18,NAMER,ENT,inbound,MQL-Trial,core,19,1,1,1
+2025-08-18,NAMER,MM,inbound,MQL-Demo,core,31,6,1,1
+2025-08-18,NAMER,MM,inbound,MQL-Event,non-core,43,3,0,0
+2025-08-18,NAMER,MM,inbound,MQL-Trial,core,12,0,0,0
+2025-08-18,NAMER,MM,outbound,MQL-Demo,core,14,5,3,1
+2025-08-18,NAMER,MM,outbound,MQL-Event,non-core,27,0,0,0
+2025-08-18,NAMER,SB,inbound,MQL-Contact Sales,core,11,9,4,2
+2025-08-18,NAMER,SB,inbound,MQL-Demo,core,19,8,4,4
+2025-08-18,NAMER,SB,inbound,MQL-Event,non-core,11,2,0,0
+2025-08-18,NAMER,SB,inbound,MQL-Trial,core,27,10,2,1
+2025-08-18,NAMER,Unknown,inbound,MQL-Contact Sales,core,12,0,0,0
+2025-08-18,NAMER,Unknown,inbound,MQL-Demo,core,25,2,0,0
+2025-08-18,NAMER,Unknown,inbound,MQL-Event,non-core,11,2,0,0
+2025-08-18,NAMER,VSB,inbound,MQL-Contact Sales,core,10,7,5,4
+2025-08-18,NAMER,VSB,inbound,MQL-Demo,core,19,8,3,3
+2025-08-18,NAMER,VSB,inbound,MQL-Trial,core,33,5,0,0
+2025-08-25,APAC,MM,inbound,MQL-Demo,core,14,2,0,0
+2025-08-25,EMEA,MM,inbound,MQL-Demo,core,10,4,3,3
+2025-08-25,EMEA,MM,inbound,MQL-Event,non-core,17,3,0,0
+2025-08-25,EMEA,MM,inbound,MQL-Trial,core,15,2,1,1
+2025-08-25,EMEA,SB,inbound,MQL-Demo,core,15,6,2,2
+2025-08-25,EMEA,SB,inbound,MQL-Trial,core,13,2,1,1
+2025-08-25,EMEA,VSB,inbound,MQL-Trial,core,25,3,1,1
+2025-08-25,NAMER,ENT,inbound,MQL-Demo,core,29,8,0,0
+2025-08-25,NAMER,ENT,inbound,MQL-Nurture,non-core,14,1,0,0
+2025-08-25,NAMER,ENT,inbound,MQL-Trial,core,18,2,1,1
+2025-08-25,NAMER,MM,inbound,MQL-Contact Sales,core,12,5,5,4
+2025-08-25,NAMER,MM,inbound,MQL-Demo,core,30,6,0,0
+2025-08-25,NAMER,MM,inbound,MQL-Nurture,non-core,84,6,1,1
+2025-08-25,NAMER,MM,inbound,MQL-Trial,core,17,1,1,1
+2025-08-25,NAMER,MM,outbound,MQL-Nurture,non-core,11,0,0,0
+2025-08-25,NAMER,SB,inbound,MQL-Demo,core,15,3,0,0
+2025-08-25,NAMER,SB,inbound,MQL-Nurture,non-core,42,5,0,0
+2025-08-25,NAMER,Unknown,inbound,MQL-Contact Sales,core,13,3,0,0
+2025-08-25,NAMER,VSB,inbound,MQL-Contact Sales,core,12,6,4,4
+2025-08-25,NAMER,VSB,inbound,MQL-Demo,core,10,6,4,3
+2025-08-25,NAMER,VSB,inbound,MQL-Trial,core,34,6,2,2
+2025-09-01,APAC,MM,inbound,MQL-Demo,core,12,2,0,0
+2025-09-01,APAC,SB,inbound,MQL-Trial,core,13,1,1,1
+2025-09-01,EMEA,ENT,inbound,MQL-Demo,core,13,1,0,0
+2025-09-01,EMEA,MM,inbound,MQL-Demo,core,14,1,0,0
+2025-09-01,EMEA,MM,inbound,MQL-Trial,core,23,4,0,0
+2025-09-01,EMEA,SB,inbound,MQL-Demo,core,13,5,1,1
+2025-09-01,EMEA,SB,inbound,MQL-Trial,core,13,4,1,1
+2025-09-01,EMEA,VSB,inbound,MQL-Trial,core,22,6,0,0
+2025-09-01,NAMER,ENT,inbound,MQL-Demo,core,28,6,1,1
+2025-09-01,NAMER,ENT,inbound,MQL-Nurture,non-core,17,0,0,0
+2025-09-01,NAMER,ENT,inbound,MQL-Trial,core,16,1,0,0
+2025-09-01,NAMER,MM,inbound,MQL-Demo,core,34,8,4,4
+2025-09-01,NAMER,MM,inbound,MQL-Nurture,non-core,89,3,0,0
+2025-09-01,NAMER,MM,inbound,MQL-Trial,core,13,4,1,1
+2025-09-01,NAMER,SB,inbound,MQL-Contact Sales,core,15,11,8,6
+2025-09-01,NAMER,SB,inbound,MQL-Demo,core,16,7,3,3
+2025-09-01,NAMER,SB,inbound,MQL-Nurture,non-core,18,1,0,0
+2025-09-01,NAMER,SB,inbound,MQL-Trial,core,14,4,1,1
+2025-09-01,NAMER,Unknown,inbound,MQL-Demo,core,10,2,0,0
+2025-09-01,NAMER,VSB,inbound,MQL-Contact Sales,core,13,5,3,3
+2025-09-01,NAMER,VSB,inbound,MQL-Trial,core,13,1,0,0
+2025-09-08,APAC,ENT,outbound,MQL-Nurture,non-core,10,2,0,0
+2025-09-08,EMEA,ENT,inbound,MQL-Demo,core,12,3,1,1
+2025-09-08,EMEA,MM,inbound,MQL-Demo,core,11,5,4,4
+2025-09-08,EMEA,MM,inbound,MQL-Trial,core,15,5,0,0
+2025-09-08,EMEA,SB,inbound,MQL-Demo,core,12,8,1,1
+2025-09-08,EMEA,SB,inbound,MQL-Trial,core,11,2,1,1
+2025-09-08,EMEA,Unknown,inbound,MQL-Contact Sales,core,10,4,0,0
+2025-09-08,EMEA,VSB,inbound,MQL-Contact Sales,core,15,13,4,3
+2025-09-08,EMEA,VSB,inbound,MQL-Trial,core,15,0,0,0
+2025-09-08,NAMER,ENT,inbound,MQL-Demo,core,32,4,2,2
+2025-09-08,NAMER,ENT,inbound,MQL-Event,non-core,95,8,0,0
+2025-09-08,NAMER,ENT,inbound,MQL-Nurture,non-core,23,1,0,0
+2025-09-08,NAMER,ENT,inbound,MQL-Trial,core,19,0,0,0
+2025-09-08,NAMER,MM,inbound,MQL-Contact Sales,core,14,8,7,6
+2025-09-08,NAMER,MM,inbound,MQL-Demo,core,38,9,3,3
+2025-09-08,NAMER,MM,inbound,MQL-Event,non-core,43,2,0,0
+2025-09-08,NAMER,MM,inbound,MQL-Nurture,non-core,46,2,1,1
+2025-09-08,NAMER,MM,inbound,MQL-Trial,core,24,3,1,1
+2025-09-08,NAMER,MM,outbound,MQL-Demo,core,13,6,5,5
+2025-09-08,NAMER,MM,outbound,MQL-Event,non-core,14,0,0,0
+2025-09-08,NAMER,MM,outbound,MQL-Nurture,non-core,11,0,0,0
+2025-09-08,NAMER,SB,inbound,MQL-Contact Sales,core,15,11,7,6
+2025-09-08,NAMER,SB,inbound,MQL-Demo,core,15,6,2,1
+2025-09-08,NAMER,SB,inbound,MQL-Event,non-core,24,2,0,0
+2025-09-08,NAMER,SB,inbound,MQL-Trial,core,14,6,1,1
+2025-09-08,NAMER,VSB,inbound,MQL-Demo,core,10,5,3,3
+2025-09-08,NAMER,VSB,inbound,MQL-Trial,core,20,6,1,1
+2025-09-15,APAC,MM,inbound,MQL-Trial,core,10,1,1,0
+2025-09-15,EMEA,ENT,inbound,MQL-Trial,core,13,2,0,0
+2025-09-15,EMEA,MM,inbound,MQL-Contact Sales,core,10,10,4,4
+2025-09-15,EMEA,MM,inbound,MQL-Demo,core,17,5,2,1
+2025-09-15,EMEA,MM,inbound,MQL-Trial,core,18,3,3,2
+2025-09-15,EMEA,SB,inbound,MQL-Demo,core,12,6,3,2
+2025-09-15,EMEA,SB,inbound,MQL-Trial,core,11,5,1,1
+2025-09-15,EMEA,VSB,inbound,MQL-Trial,core,23,7,1,1
+2025-09-15,NAMER,ENT,inbound,MQL-Demo,core,34,5,0,0
+2025-09-15,NAMER,ENT,inbound,MQL-Event,non-core,20,2,0,0
+2025-09-15,NAMER,ENT,inbound,MQL-Trial,core,22,2,0,0
+2025-09-15,NAMER,MM,inbound,MQL-Demo,core,36,9,3,3
+2025-09-15,NAMER,MM,inbound,MQL-Event,non-core,11,0,0,0
+2025-09-15,NAMER,MM,inbound,MQL-Trial,core,28,3,0,0
+2025-09-15,NAMER,SB,inbound,MQL-Contact Sales,core,10,8,4,3
+2025-09-15,NAMER,SB,inbound,MQL-Demo,core,18,8,6,6
+2025-09-15,NAMER,SB,inbound,MQL-Trial,core,14,3,0,0
+2025-09-15,NAMER,Unknown,inbound,MQL-Contact Sales,core,16,5,0,0
+2025-09-15,NAMER,VSB,inbound,MQL-Contact Sales,core,19,8,4,3
+2025-09-15,NAMER,VSB,inbound,MQL-Demo,core,10,5,2,2
+2025-09-15,NAMER,VSB,inbound,MQL-Trial,core,18,4,0,0
+2025-09-22,EMEA,ENT,inbound,MQL-Demo,core,12,2,1,0
+2025-09-22,EMEA,MM,inbound,MQL-Demo,core,15,4,1,1
+2025-09-22,EMEA,MM,inbound,MQL-Trial,core,12,2,0,0
+2025-09-22,EMEA,SB,inbound,MQL-Demo,core,14,5,2,2
+2025-09-22,EMEA,SB,inbound,MQL-Trial,core,12,1,1,1
+2025-09-22,EMEA,VSB,inbound,MQL-Contact Sales,core,13,12,5,1
+2025-09-22,EMEA,VSB,inbound,MQL-Trial,core,22,5,0,0
+2025-09-22,NAMER,ENT,inbound,MQL-Demo,core,30,4,1,1
+2025-09-22,NAMER,ENT,inbound,MQL-Event,non-core,14,5,1,1
+2025-09-22,NAMER,ENT,inbound,MQL-Trial,core,11,2,1,0
+2025-09-22,NAMER,MM,inbound,MQL-Contact Sales,core,10,6,5,3
+2025-09-22,NAMER,MM,inbound,MQL-Demo,core,27,10,1,0
+2025-09-22,NAMER,MM,inbound,MQL-Nurture,non-core,19,0,0,0
+2025-09-22,NAMER,MM,inbound,MQL-Trial,core,15,4,0,0
+2025-09-22,NAMER,SB,inbound,MQL-Contact Sales,core,17,14,3,2
+2025-09-22,NAMER,SB,inbound,MQL-Demo,core,12,5,3,3
+2025-09-22,NAMER,SB,inbound,MQL-Trial,core,14,3,0,0
+2025-09-22,NAMER,Unknown,inbound,MQL-Contact Sales,core,11,1,0,0
+2025-09-22,NAMER,Unknown,inbound,MQL-Demo,core,10,0,0,0
+2025-09-22,NAMER,VSB,inbound,MQL-Contact Sales,core,19,13,4,3
+2025-09-22,NAMER,VSB,inbound,MQL-Demo,core,12,7,2,2
+2025-09-22,NAMER,VSB,inbound,MQL-Trial,core,14,1,0,0
+2025-09-29,EMEA,MM,inbound,MQL-Demo,core,12,5,3,3
+2025-09-29,EMEA,MM,inbound,MQL-Trial,core,12,2,1,0
+2025-09-29,EMEA,SB,inbound,MQL-Demo,core,13,8,0,0
+2025-09-29,EMEA,Unknown,inbound,MQL-Demo,core,11,7,0,0
+2025-09-29,EMEA,VSB,inbound,MQL-Contact Sales,core,13,9,4,3
+2025-09-29,EMEA,VSB,inbound,MQL-Demo,core,12,6,1,1
+2025-09-29,EMEA,VSB,inbound,MQL-Trial,core,15,0,0,0
+2025-09-29,NAMER,ENT,inbound,MQL-Demo,core,31,3,0,0
+2025-09-29,NAMER,ENT,inbound,MQL-Trial,core,23,5,0,0
+2025-09-29,NAMER,MM,inbound,MQL-Contact Sales,core,13,11,6,6
+2025-09-29,NAMER,MM,inbound,MQL-Demo,core,27,9,3,3
+2025-09-29,NAMER,MM,inbound,MQL-Trial,core,22,3,1,1
+2025-09-29,NAMER,SB,inbound,MQL-Demo,core,15,5,2,2
+2025-09-29,NAMER,SB,inbound,MQL-Trial,core,14,3,1,1
+2025-09-29,NAMER,Unknown,inbound,MQL-Contact Sales,core,10,3,0,0
+2025-09-29,NAMER,VSB,inbound,MQL-Contact Sales,core,15,7,2,2
+2025-09-29,NAMER,VSB,inbound,MQL-Trial,core,18,4,0,0
+2025-10-06,EMEA,ENT,inbound,MQL-Demo,core,18,0,1,0
+2025-10-06,EMEA,ENT,inbound,MQL-Event,non-core,30,2,2,1
+2025-10-06,EMEA,MM,inbound,MQL-Demo,core,13,5,1,1
+2025-10-06,EMEA,MM,inbound,MQL-Event,non-core,53,5,3,3
+2025-10-06,EMEA,MM,inbound,MQL-Trial,core,17,2,0,0
+2025-10-06,EMEA,MM,outbound,MQL-Event,non-core,21,1,1,1
+2025-10-06,EMEA,SB,inbound,MQL-Demo,core,17,3,1,0
+2025-10-06,EMEA,SB,inbound,MQL-Event,non-core,21,5,0,0
+2025-10-06,EMEA,SB,inbound,MQL-Trial,core,17,5,3,2
+2025-10-06,EMEA,SB,outbound,MQL-Event,non-core,15,2,0,0
+2025-10-06,EMEA,Unknown,inbound,MQL-Contact Sales,core,13,6,0,0
+2025-10-06,EMEA,Unknown,inbound,MQL-Demo,core,15,2,0,0
+2025-10-06,EMEA,Unknown,inbound,MQL-Event,non-core,23,2,0,0
+2025-10-06,EMEA,VSB,inbound,MQL-Contact Sales,core,12,6,1,1
+2025-10-06,EMEA,VSB,inbound,MQL-Demo,core,11,3,1,1
+2025-10-06,EMEA,VSB,inbound,MQL-Event,non-core,26,5,0,0
+2025-10-06,EMEA,VSB,inbound,MQL-Trial,core,17,3,0,0
+2025-10-06,NAMER,ENT,inbound,MQL-Demo,core,26,3,0,0
+2025-10-06,NAMER,ENT,inbound,MQL-Event,non-core,89,10,5,3
+2025-10-06,NAMER,ENT,inbound,MQL-Trial,core,11,1,0,0
+2025-10-06,NAMER,MM,inbound,MQL-Contact Sales,core,12,10,7,6
+2025-10-06,NAMER,MM,inbound,MQL-Demo,core,20,7,2,1
+2025-10-06,NAMER,MM,inbound,MQL-Event,non-core,64,3,1,0
+2025-10-06,NAMER,MM,inbound,MQL-Trial,core,18,3,0,0
+2025-10-06,NAMER,MM,outbound,MQL-Demo,core,10,1,2,2
+2025-10-06,NAMER,MM,outbound,MQL-Event,non-core,57,5,0,0
+2025-10-06,NAMER,SB,inbound,MQL-Contact Sales,core,15,13,7,6
+2025-10-06,NAMER,SB,inbound,MQL-Demo,core,18,10,4,3
+2025-10-06,NAMER,SB,inbound,MQL-Event,non-core,33,5,1,1
+2025-10-06,NAMER,SB,inbound,MQL-Trial,core,18,5,2,1
+2025-10-06,NAMER,SB,outbound,MQL-Event,non-core,11,2,0,0
+2025-10-06,NAMER,Unknown,inbound,MQL-Contact Sales,core,10,2,0,0
+2025-10-06,NAMER,Unknown,inbound,MQL-Demo,core,10,0,0,0
+2025-10-06,NAMER,Unknown,inbound,MQL-Event,non-core,32,0,0,0
+2025-10-06,NAMER,VSB,inbound,MQL-Contact Sales,core,11,8,3,3
+2025-10-06,NAMER,VSB,inbound,MQL-Demo,core,21,10,2,2
+2025-10-06,NAMER,VSB,inbound,MQL-Event,non-core,15,4,2,1
+2025-10-06,NAMER,VSB,inbound,MQL-Trial,core,22,3,1,1
+2025-10-13,EMEA,ENT,inbound,MQL-Event,non-core,17,2,0,0
+2025-10-13,EMEA,ENT,inbound,MQL-Nurture,non-core,71,7,2,0
+2025-10-13,EMEA,ENT,inbound,MQL-Trial,core,14,1,0,0
+2025-10-13,EMEA,MM,inbound,MQL-Demo,core,16,9,2,1
+2025-10-13,EMEA,MM,inbound,MQL-Event,non-core,14,2,1,0
+2025-10-13,EMEA,MM,inbound,MQL-Trial,core,13,2,0,0
+2025-10-13,EMEA,MM,outbound,MQL-Event,non-core,14,0,1,1
+2025-10-13,EMEA,SB,inbound,MQL-Contact Sales,core,10,7,3,2
+2025-10-13,EMEA,SB,inbound,MQL-Demo,core,22,10,3,3
+2025-10-13,EMEA,SB,inbound,MQL-Trial,core,21,5,2,1
+2025-10-13,EMEA,Unknown,inbound,MQL-Contact Sales,core,11,9,0,0
+2025-10-13,EMEA,VSB,inbound,MQL-Contact Sales,core,14,9,3,3
+2025-10-13,EMEA,VSB,inbound,MQL-Trial,core,29,1,0,0
+2025-10-13,NAMER,ENT,inbound,MQL-Demo,core,21,1,0,0
+2025-10-13,NAMER,ENT,inbound,MQL-Event,non-core,45,1,1,0
+2025-10-13,NAMER,ENT,inbound,MQL-Nurture,non-core,137,3,1,1
+2025-10-13,NAMER,ENT,inbound,MQL-Trial,core,30,4,0,0
+2025-10-13,NAMER,MM,inbound,MQL-Demo,core,26,8,3,3
+2025-10-13,NAMER,MM,inbound,MQL-Event,non-core,17,2,0,0
+2025-10-13,NAMER,MM,inbound,MQL-Nurture,non-core,10,0,0,0
+2025-10-13,NAMER,MM,inbound,MQL-Trial,core,29,4,3,1
+2025-10-13,NAMER,MM,outbound,MQL-Demo,core,11,2,0,0
+2025-10-13,NAMER,MM,outbound,MQL-Event,non-core,57,2,1,1
+2025-10-13,NAMER,MM,outbound,MQL-Nurture,non-core,31,1,4,4
+2025-10-13,NAMER,MM,outbound,MQL-Trial,core,15,1,2,2
+2025-10-13,NAMER,SB,inbound,MQL-Contact Sales,core,12,6,5,4
+2025-10-13,NAMER,SB,inbound,MQL-Demo,core,12,8,3,2
+2025-10-13,NAMER,SB,inbound,MQL-Event,non-core,10,2,0,0
+2025-10-13,NAMER,SB,outbound,MQL-Demo,core,10,5,3,2
+2025-10-13,NAMER,VSB,inbound,MQL-Contact Sales,core,15,10,7,6
+2025-10-13,NAMER,VSB,inbound,MQL-Demo,core,13,9,1,1
+2025-10-13,NAMER,VSB,inbound,MQL-Trial,core,17,5,2,1
+2025-10-20,EMEA,ENT,inbound,MQL-Content Syndication,non-core,10,0,0,0
+2025-10-20,EMEA,ENT,inbound,MQL-Demo,core,11,1,0,0
+2025-10-20,EMEA,MM,inbound,MQL-Demo,core,21,10,2,2
+2025-10-20,EMEA,MM,inbound,MQL-Trial,core,24,1,1,1
+2025-10-20,EMEA,MM,outbound,MQL-Content Syndication,non-core,10,0,0,0
+2025-10-20,EMEA,SB,inbound,MQL-Contact Sales,core,15,10,6,3
+2025-10-20,EMEA,SB,inbound,MQL-Demo,core,19,9,4,2
+2025-10-20,EMEA,SB,inbound,MQL-Trial,core,12,3,2,1
+2025-10-20,EMEA,VSB,inbound,MQL-Contact Sales,core,14,6,4,4
+2025-10-20,EMEA,VSB,inbound,MQL-Demo,core,10,5,0,0
+2025-10-20,EMEA,VSB,inbound,MQL-Trial,core,40,2,0,0
+2025-10-20,NAMER,ENT,inbound,MQL-Content Syndication,non-core,40,2,0,0
+2025-10-20,NAMER,ENT,inbound,MQL-Demo,core,24,2,0,0
+2025-10-20,NAMER,ENT,inbound,MQL-Trial,core,22,1,1,1
+2025-10-20,NAMER,MM,inbound,MQL-Demo,core,30,9,1,1
+2025-10-20,NAMER,MM,inbound,MQL-Trial,core,21,3,0,0
+2025-10-20,NAMER,MM,outbound,MQL-Content Syndication,non-core,19,0,0,0
+2025-10-20,NAMER,MM,outbound,MQL-Demo,core,14,2,1,1
+2025-10-20,NAMER,MM,outbound,MQL-Trial,core,11,1,0,0
+2025-10-20,NAMER,SB,inbound,MQL-Demo,core,31,17,6,5
+2025-10-20,NAMER,SB,inbound,MQL-Trial,core,19,9,3,3
+2025-10-20,NAMER,Unknown,inbound,MQL-Contact Sales,core,15,5,0,0
+2025-10-20,NAMER,VSB,inbound,MQL-Contact Sales,core,23,18,6,4
+2025-10-20,NAMER,VSB,inbound,MQL-Demo,core,20,3,4,3
+2025-10-20,NAMER,VSB,inbound,MQL-Trial,core,17,2,0,0
+2025-10-27,APAC,MM,inbound,MQL-Event,non-core,12,1,2,0
+2025-10-27,EMEA,ENT,inbound,MQL-Contact Sales,core,23,2,1,1
+2025-10-27,EMEA,MM,inbound,MQL-Contact Sales,core,10,1,1,1
+2025-10-27,EMEA,MM,inbound,MQL-Demo,core,10,4,3,3
+2025-10-27,EMEA,MM,inbound,MQL-Trial,core,13,5,1,1
+2025-10-27,EMEA,SB,inbound,MQL-Demo,core,11,5,0,0
+2025-10-27,EMEA,SB,inbound,MQL-Trial,core,11,3,0,0
+2025-10-27,EMEA,Unknown,inbound,MQL-Contact Sales,core,23,5,0,0
+2025-10-27,EMEA,Unknown,inbound,MQL-Demo,core,15,3,0,0
+2025-10-27,EMEA,VSB,inbound,MQL-Contact Sales,core,44,9,5,4
+2025-10-27,EMEA,VSB,inbound,MQL-Demo,core,19,4,2,1
+2025-10-27,EMEA,VSB,inbound,MQL-Trial,core,15,1,1,1
+2025-10-27,NAMER,ENT,inbound,MQL-Contact Sales,core,13,2,1,0
+2025-10-27,NAMER,ENT,inbound,MQL-Content Syndication,non-core,17,1,0,0
+2025-10-27,NAMER,ENT,inbound,MQL-Demo,core,28,3,2,2
+2025-10-27,NAMER,ENT,inbound,MQL-Trial,core,21,2,0,0
+2025-10-27,NAMER,MM,inbound,MQL-Contact Sales,core,26,10,7,4
+2025-10-27,NAMER,MM,inbound,MQL-Demo,core,34,11,2,0
+2025-10-27,NAMER,MM,inbound,MQL-Trial,core,18,1,0,0
+2025-10-27,NAMER,SB,inbound,MQL-Contact Sales,core,21,13,4,4
+2025-10-27,NAMER,SB,inbound,MQL-Demo,core,12,3,1,1
+2025-10-27,NAMER,SB,inbound,MQL-Trial,core,22,5,0,0
+2025-10-27,NAMER,Unknown,inbound,MQL-Contact Sales,core,25,7,0,0
+2025-10-27,NAMER,VSB,inbound,MQL-Contact Sales,core,60,14,8,7
+2025-10-27,NAMER,VSB,inbound,MQL-Demo,core,25,10,3,3
+2025-10-27,NAMER,VSB,inbound,MQL-Trial,core,16,1,1,1
+2025-11-03,EMEA,ENT,inbound,MQL-Contact Sales,core,10,0,1,1
+2025-11-03,EMEA,ENT,inbound,MQL-Content Syndication,non-core,11,2,0,0
+2025-11-03,EMEA,ENT,inbound,MQL-Demo,core,20,0,0,0
+2025-11-03,EMEA,ENT,inbound,MQL-Event,non-core,23,1,1,1
+2025-11-03,EMEA,MM,inbound,MQL-Demo,core,16,4,0,0
+2025-11-03,EMEA,MM,inbound,MQL-Trial,core,13,2,0,0
+2025-11-03,EMEA,SB,inbound,MQL-Contact Sales,core,14,5,1,1
+2025-11-03,EMEA,SB,inbound,MQL-Demo,core,13,5,1,0
+2025-11-03,EMEA,SB,inbound,MQL-Trial,core,11,8,1,1
+2025-11-03,EMEA,Unknown,inbound,MQL-Contact Sales,core,21,5,0,0
+2025-11-03,EMEA,Unknown,inbound,MQL-Demo,core,18,4,0,0
+2025-11-03,EMEA,VSB,inbound,MQL-Contact Sales,core,66,10,4,3
+2025-11-03,EMEA,VSB,inbound,MQL-Demo,core,23,10,4,3
+2025-11-03,EMEA,VSB,inbound,MQL-Trial,core,20,0,0,0
+2025-11-03,LATAM,ENT,inbound,MQL-Event,non-core,12,0,0,0
+2025-11-03,NAMER,ENT,inbound,MQL-Contact Sales,core,22,4,3,3
+2025-11-03,NAMER,ENT,inbound,MQL-Content Syndication,non-core,57,8,1,1
+2025-11-03,NAMER,ENT,inbound,MQL-Demo,core,28,1,1,0
+2025-11-03,NAMER,ENT,inbound,MQL-Event,non-core,77,8,1,1
+2025-11-03,NAMER,MM,inbound,MQL-Contact Sales,core,20,8,3,3
+2025-11-03,NAMER,MM,inbound,MQL-Demo,core,38,6,2,0
+2025-11-03,NAMER,MM,inbound,MQL-Event,non-core,45,5,2,2
+2025-11-03,NAMER,MM,inbound,MQL-Trial,core,22,7,1,0
+2025-11-03,NAMER,MM,outbound,MQL-Demo,core,11,3,2,2
+2025-11-03,NAMER,MM,outbound,MQL-Event,non-core,20,2,0,0
+2025-11-03,NAMER,SB,inbound,MQL-Contact Sales,core,21,11,5,3
+2025-11-03,NAMER,SB,inbound,MQL-Demo,core,24,11,2,2
+2025-11-03,NAMER,SB,inbound,MQL-Event,non-core,33,7,0,0
+2025-11-03,NAMER,SB,inbound,MQL-Trial,core,19,6,0,0
+2025-11-03,NAMER,Unknown,inbound,MQL-Contact Sales,core,44,9,0,0
+2025-11-03,NAMER,VSB,inbound,MQL-Contact Sales,core,58,11,5,4
+2025-11-03,NAMER,VSB,inbound,MQL-Demo,core,26,9,5,5
+2025-11-03,NAMER,VSB,inbound,MQL-Trial,core,22,2,2,2
+2025-11-10,EMEA,ENT,inbound,MQL-Demo,core,11,0,0,0
+2025-11-10,EMEA,MM,inbound,MQL-Demo,core,16,6,1,1
+2025-11-10,EMEA,MM,outbound,MQL-Demo,core,11,3,2,1
+2025-11-10,EMEA,SB,inbound,MQL-Contact Sales,core,16,2,3,3
+2025-11-10,EMEA,SB,inbound,MQL-Demo,core,13,7,1,0
+2025-11-10,EMEA,Unknown,inbound,MQL-Contact Sales,core,18,4,0,0
+2025-11-10,EMEA,Unknown,inbound,MQL-Demo,core,14,6,0,0
+2025-11-10,EMEA,VSB,inbound,MQL-Contact Sales,core,47,8,0,0
+2025-11-10,EMEA,VSB,inbound,MQL-Demo,core,17,7,5,5
+2025-11-10,EMEA,VSB,inbound,MQL-Trial,core,18,6,1,0
+2025-11-10,NAMER,ENT,inbound,MQL-Contact Sales,core,14,5,3,3
+2025-11-10,NAMER,ENT,inbound,MQL-Demo,core,19,6,1,1
+2025-11-10,NAMER,ENT,inbound,MQL-Nurture,non-core,19,1,0,0
+2025-11-10,NAMER,ENT,inbound,MQL-Trial,core,13,2,0,0
+2025-11-10,NAMER,MM,inbound,MQL-Contact Sales,core,20,13,6,5
+2025-11-10,NAMER,MM,inbound,MQL-Demo,core,18,6,2,2
+2025-11-10,NAMER,MM,inbound,MQL-Trial,core,12,3,2,1
+2025-11-10,NAMER,MM,outbound,MQL-Nurture,non-core,13,1,1,0
+2025-11-10,NAMER,SB,inbound,MQL-Contact Sales,core,22,8,3,2
+2025-11-10,NAMER,SB,inbound,MQL-Demo,core,23,9,5,5
+2025-11-10,NAMER,SB,inbound,MQL-Trial,core,16,9,2,1
+2025-11-10,NAMER,Unknown,inbound,MQL-Contact Sales,core,31,6,0,0
+2025-11-10,NAMER,Unknown,inbound,MQL-Demo,core,10,3,0,0
+2025-11-10,NAMER,VSB,inbound,MQL-Contact Sales,core,46,9,3,2
+2025-11-10,NAMER,VSB,inbound,MQL-Demo,core,12,5,0,0
+2025-11-17,EMEA,ENT,inbound,MQL-Content Syndication,non-core,15,4,0,0
+2025-11-17,EMEA,ENT,inbound,MQL-Demo,core,12,1,0,0
+2025-11-17,EMEA,MM,inbound,MQL-Demo,core,15,6,1,1
+2025-11-17,EMEA,SB,inbound,MQL-Demo,core,11,1,1,1
+2025-11-17,EMEA,SB,inbound,MQL-Trial,core,12,1,1,1
+2025-11-17,EMEA,Unknown,inbound,MQL-Contact Sales,core,13,1,0,0
+2025-11-17,EMEA,Unknown,inbound,MQL-Demo,core,10,2,0,0
+2025-11-17,EMEA,VSB,inbound,MQL-Contact Sales,core,13,9,4,4
+2025-11-17,EMEA,VSB,inbound,MQL-Demo,core,17,3,1,1
+2025-11-17,EMEA,VSB,inbound,MQL-Trial,core,11,2,0,0
+2025-11-17,NAMER,ENT,inbound,MQL-Contact Sales,core,27,3,3,2
+2025-11-17,NAMER,ENT,inbound,MQL-Content Syndication,non-core,79,5,1,0
+2025-11-17,NAMER,ENT,inbound,MQL-Demo,core,31,6,1,1
+2025-11-17,NAMER,ENT,inbound,MQL-Trial,core,11,1,1,1
+2025-11-17,NAMER,MM,inbound,MQL-Contact Sales,core,18,10,4,3
+2025-11-17,NAMER,MM,inbound,MQL-Demo,core,34,11,4,3
+2025-11-17,NAMER,MM,inbound,MQL-Nurture,non-core,11,2,0,0
+2025-11-17,NAMER,MM,inbound,MQL-Trial,core,16,2,1,1
+2025-11-17,NAMER,MM,outbound,MQL-Demo,core,12,1,1,0
+2025-11-17,NAMER,MM,outbound,MQL-Trial,core,12,2,1,1
+2025-11-17,NAMER,SB,inbound,MQL-Contact Sales,core,27,9,6,4
+2025-11-17,NAMER,SB,inbound,MQL-Demo,core,24,8,4,3
+2025-11-17,NAMER,SB,inbound,MQL-Trial,core,17,7,2,2
+2025-11-17,NAMER,SB,outbound,MQL-Demo,core,12,5,1,1
+2025-11-17,NAMER,Unknown,inbound,MQL-Contact Sales,core,23,7,0,0
+2025-11-17,NAMER,Unknown,inbound,MQL-Demo,core,12,0,0,0
+2025-11-17,NAMER,VSB,inbound,MQL-Contact Sales,core,16,8,2,2
+2025-11-17,NAMER,VSB,inbound,MQL-Demo,core,13,4,1,1
+2025-11-17,NAMER,VSB,inbound,MQL-Trial,core,12,3,0,0
+2025-11-24,EMEA,ENT,inbound,MQL-Content Syndication,non-core,10,3,0,0
+2025-11-24,EMEA,ENT,inbound,MQL-Demo,core,14,0,0,0
+2025-11-24,EMEA,MM,inbound,MQL-Demo,core,11,4,1,1
+2025-11-24,EMEA,MM,outbound,MQL-Content Syndication,non-core,15,4,0,0
+2025-11-24,EMEA,SB,inbound,MQL-Demo,core,17,10,6,4
+2025-11-24,EMEA,SB,inbound,MQL-Event,non-core,11,1,0,0
+2025-11-24,EMEA,SB,inbound,MQL-Trial,core,12,1,1,1
+2025-11-24,EMEA,Unknown,inbound,MQL-Contact Sales,core,12,4,0,0
+2025-11-24,EMEA,Unknown,inbound,MQL-Demo,core,11,3,0,0
+2025-11-24,EMEA,Unknown,inbound,MQL-Event,non-core,13,3,0,0
+2025-11-24,EMEA,VSB,inbound,MQL-Contact Sales,core,10,6,1,1
+2025-11-24,EMEA,VSB,inbound,MQL-Demo,core,13,2,0,0
+2025-11-24,EMEA,VSB,inbound,MQL-Trial,core,11,4,1,1
+2025-11-24,NAMER,ENT,inbound,MQL-Contact Sales,core,19,1,0,0
+2025-11-24,NAMER,ENT,inbound,MQL-Content Syndication,non-core,46,4,0,0
+2025-11-24,NAMER,ENT,inbound,MQL-Demo,core,26,2,1,1
+2025-11-24,NAMER,ENT,inbound,MQL-Trial,core,11,1,0,0
+2025-11-24,NAMER,MM,inbound,MQL-Content Syndication,non-core,11,1,0,0
+2025-11-24,NAMER,MM,inbound,MQL-Demo,core,22,8,3,3
+2025-11-24,NAMER,MM,inbound,MQL-Trial,core,18,3,1,0
+2025-11-24,NAMER,MM,outbound,MQL-Content Syndication,non-core,27,6,0,0
+2025-11-24,NAMER,SB,inbound,MQL-Contact Sales,core,13,9,6,6
+2025-11-24,NAMER,SB,inbound,MQL-Demo,core,16,5,1,1
+2025-11-24,NAMER,SB,inbound,MQL-Trial,core,10,2,0,0
+2025-11-24,NAMER,Unknown,inbound,MQL-Contact Sales,core,22,8,0,0
+2025-11-24,NAMER,VSB,inbound,MQL-Contact Sales,core,12,3,0,0
+2025-11-24,NAMER,VSB,inbound,MQL-Demo,core,12,7,1,1
+2025-11-24,NAMER,VSB,inbound,MQL-Trial,core,11,0,1,0
+2025-12-01,APAC,ENT,inbound,MQL-Event,non-core,30,2,1,0
+2025-12-01,APAC,ENT,inbound,MQL-Nurture,non-core,20,0,0,0
+2025-12-01,APAC,ENT,outbound,MQL-Event,non-core,11,0,0,0
+2025-12-01,APAC,MM,inbound,MQL-Event,non-core,31,2,0,0
+2025-12-01,APAC,MM,outbound,MQL-Event,non-core,14,1,0,0
+2025-12-01,EMEA,ENT,inbound,MQL-Event,non-core,16,0,1,0
+2025-12-01,EMEA,MM,inbound,MQL-Demo,core,16,2,2,1
+2025-12-01,EMEA,MM,inbound,MQL-Event,non-core,10,0,0,0
+2025-12-01,EMEA,MM,outbound,MQL-Event,non-core,12,2,0,0
+2025-12-01,EMEA,SB,outbound,MQL-Event,non-core,10,1,1,0
+2025-12-01,EMEA,Unknown,inbound,MQL-Contact Sales,core,18,1,0,0
+2025-12-01,EMEA,VSB,inbound,MQL-Contact Sales,core,14,9,7,6
+2025-12-01,EMEA,VSB,inbound,MQL-Demo,core,13,4,0,0
+2025-12-01,EMEA,VSB,inbound,MQL-Trial,core,12,3,0,0
+2025-12-01,NAMER,ENT,inbound,MQL-Demo,core,20,0,0,0
+2025-12-01,NAMER,ENT,inbound,MQL-Event,non-core,36,2,0,0
+2025-12-01,NAMER,ENT,inbound,MQL-Nurture,non-core,15,1,0,0
+2025-12-01,NAMER,ENT,inbound,MQL-Trial,core,14,1,0,0
+2025-12-01,NAMER,MM,inbound,MQL-Contact Sales,core,11,5,4,3
+2025-12-01,NAMER,MM,inbound,MQL-Demo,core,29,8,5,5
+2025-12-01,NAMER,MM,inbound,MQL-Event,non-core,10,0,0,0
+2025-12-01,NAMER,MM,inbound,MQL-Nurture,non-core,52,5,0,0
+2025-12-01,NAMER,MM,inbound,MQL-Trial,core,23,4,1,0
+2025-12-01,NAMER,MM,outbound,MQL-Nurture,non-core,10,1,0,0
+2025-12-01,NAMER,SB,inbound,MQL-Demo,core,17,4,1,0
+2025-12-01,NAMER,SB,inbound,MQL-Nurture,non-core,29,3,1,1
+2025-12-01,NAMER,SB,inbound,MQL-Trial,core,13,1,0,0
+2025-12-01,NAMER,Unknown,inbound,MQL-Contact Sales,core,22,5,0,0
+2025-12-01,NAMER,VSB,inbound,MQL-Contact Sales,core,22,10,7,5
+2025-12-01,NAMER,VSB,inbound,MQL-Demo,core,16,4,2,1
+2025-12-08,APAC,ENT,inbound,MQL-Event,non-core,20,0,0,0
+2025-12-08,EMEA,ENT,inbound,MQL-Event,non-core,20,1,1,0
+2025-12-08,EMEA,MM,inbound,MQL-Demo,core,11,1,0,0
+2025-12-08,EMEA,MM,inbound,MQL-Event,non-core,22,2,0,0
+2025-12-08,EMEA,SB,inbound,MQL-Event,non-core,12,2,1,1
+2025-12-08,EMEA,Unknown,inbound,MQL-Contact Sales,core,13,1,0,0
+2025-12-08,EMEA,Unknown,inbound,MQL-Event,non-core,11,1,0,0
+2025-12-08,EMEA,VSB,inbound,MQL-Contact Sales,core,10,7,3,3
+2025-12-08,EMEA,VSB,inbound,MQL-Demo,core,10,2,0,0
+2025-12-08,EMEA,VSB,inbound,MQL-Trial,core,15,2,0,0
+2025-12-08,NAMER,ENT,inbound,MQL-Demo,core,25,3,1,1
+2025-12-08,NAMER,ENT,inbound,MQL-Event,non-core,137,8,2,2
+2025-12-08,NAMER,ENT,inbound,MQL-Trial,core,17,6,1,1
+2025-12-08,NAMER,MM,inbound,MQL-Content Syndication,non-core,11,1,0,0
+2025-12-08,NAMER,MM,inbound,MQL-Demo,core,18,3,1,1
+2025-12-08,NAMER,MM,inbound,MQL-Event,non-core,47,2,0,0
+2025-12-08,NAMER,MM,inbound,MQL-Nurture,non-core,15,2,1,0
+2025-12-08,NAMER,MM,inbound,MQL-Trial,core,16,2,1,1
+2025-12-08,NAMER,MM,outbound,MQL-Content Syndication,non-core,36,2,0,0
+2025-12-08,NAMER,MM,outbound,MQL-Event,non-core,22,3,0,0
+2025-12-08,NAMER,SB,inbound,MQL-Contact Sales,core,11,6,4,4
+2025-12-08,NAMER,SB,inbound,MQL-Event,non-core,16,2,1,0
+2025-12-08,NAMER,SB,inbound,MQL-Nurture,non-core,13,5,4,4
+2025-12-08,NAMER,SB,inbound,MQL-Trial,core,10,5,2,0
+2025-12-08,NAMER,Unknown,inbound,MQL-Contact Sales,core,15,4,0,0
+2025-12-08,NAMER,Unknown,inbound,MQL-Demo,core,13,1,0,0
+2025-12-08,NAMER,Unknown,inbound,MQL-Event,non-core,12,3,0,0
+2025-12-08,NAMER,VSB,inbound,MQL-Contact Sales,core,21,16,7,6
+2025-12-08,NAMER,VSB,inbound,MQL-Demo,core,14,3,1,1
+2025-12-08,NAMER,VSB,inbound,MQL-Nurture,non-core,12,4,1,1
+2025-12-15,EMEA,ENT,inbound,MQL-Demo,core,12,1,0,0
+2025-12-15,EMEA,MM,inbound,MQL-Demo,core,12,3,1,1
+2025-12-15,EMEA,MM,inbound,MQL-Trial,core,11,5,0,0
+2025-12-15,EMEA,MM,outbound,MQL-Content Syndication,non-core,37,7,0,0
+2025-12-15,EMEA,SB,inbound,MQL-Demo,core,11,4,1,0
+2025-12-15,EMEA,SB,inbound,MQL-Trial,core,14,5,2,2
+2025-12-15,EMEA,Unknown,inbound,MQL-Contact Sales,core,10,4,0,0
+2025-12-15,EMEA,Unknown,inbound,MQL-Demo,core,11,3,0,0
+2025-12-15,EMEA,VSB,inbound,MQL-Contact Sales,core,14,7,5,3
+2025-12-15,EMEA,VSB,inbound,MQL-Demo,core,16,5,1,1
+2025-12-15,NAMER,ENT,inbound,MQL-Content Syndication,non-core,11,0,0,0
+2025-12-15,NAMER,ENT,inbound,MQL-Demo,core,33,1,1,0
+2025-12-15,NAMER,MM,inbound,MQL-Content Syndication,non-core,13,0,0,0
+2025-12-15,NAMER,MM,inbound,MQL-Demo,core,23,4,1,1
+2025-12-15,NAMER,MM,inbound,MQL-Nurture,non-core,32,3,0,0
+2025-12-15,NAMER,MM,inbound,MQL-Trial,core,11,0,0,0
+2025-12-15,NAMER,MM,outbound,MQL-Content Syndication,non-core,39,4,1,1
+2025-12-15,NAMER,SB,inbound,MQL-Demo,core,19,5,1,1
+2025-12-15,NAMER,SB,inbound,MQL-Nurture,non-core,23,4,0,0
+2025-12-15,NAMER,SB,inbound,MQL-Trial,core,18,2,0,0
+2025-12-15,NAMER,Unknown,inbound,MQL-Contact Sales,core,16,8,0,0
+2025-12-15,NAMER,VSB,inbound,MQL-Contact Sales,core,28,23,10,9
+2025-12-15,NAMER,VSB,inbound,MQL-Demo,core,20,6,2,1
+2025-12-15,NAMER,VSB,inbound,MQL-Trial,core,12,2,0,0
+2025-12-22,NAMER,ENT,inbound,MQL-Demo,core,12,3,1,1
+2025-12-22,NAMER,MM,inbound,MQL-Demo,core,13,4,2,1
+2025-12-22,NAMER,VSB,inbound,MQL-Trial,core,10,1,0,0
+2025-12-29,EMEA,Unknown,inbound,MQL-Demo,core,14,0,0,0
+2025-12-29,EMEA,VSB,inbound,MQL-Demo,core,13,4,0,0
+2025-12-29,NAMER,MM,inbound,MQL-Demo,core,13,2,2,2
+2025-12-29,NAMER,Unknown,inbound,MQL-Demo,core,10,1,0,0
+2025-12-29,NAMER,VSB,inbound,MQL-Contact Sales,core,12,3,2,2
+2025-12-29,NAMER,VSB,inbound,MQL-Trial,core,11,0,0,0
+2026-01-05,EMEA,SB,inbound,MQL-Demo,core,14,4,2,2
+2026-01-05,EMEA,SB,inbound,MQL-Trial,core,17,5,2,2
+2026-01-05,EMEA,VSB,inbound,MQL-Contact Sales,core,13,11,5,3
+2026-01-05,EMEA,VSB,inbound,MQL-Demo,core,16,9,1,0
+2026-01-05,EMEA,VSB,inbound,MQL-Trial,core,12,5,0,0
+2026-01-05,NAMER,ENT,inbound,MQL-Demo,core,32,5,3,2
+2026-01-05,NAMER,ENT,inbound,MQL-Trial,core,11,3,0,0
+2026-01-05,NAMER,MM,inbound,MQL-Contact Sales,core,10,8,4,3
+2026-01-05,NAMER,MM,inbound,MQL-Demo,core,21,9,1,0
+2026-01-05,NAMER,MM,inbound,MQL-Trial,core,13,1,0,0
+2026-01-05,NAMER,SB,inbound,MQL-Contact Sales,core,13,9,7,6
+2026-01-05,NAMER,SB,inbound,MQL-Demo,core,32,9,8,7
+2026-01-05,NAMER,SB,inbound,MQL-Trial,core,13,1,0,0
+2026-01-05,NAMER,VSB,inbound,MQL-Contact Sales,core,16,11,7,7
+2026-01-05,NAMER,VSB,inbound,MQL-Demo,core,32,9,1,1
+2026-01-05,NAMER,VSB,inbound,MQL-Trial,core,16,1,0,0
+2026-01-12,EMEA,MM,inbound,MQL-Demo,core,12,3,1,1
+2026-01-12,EMEA,MM,inbound,MQL-Trial,core,16,2,1,1
+2026-01-12,EMEA,SB,inbound,MQL-Trial,core,17,6,1,1
+2026-01-12,EMEA,Unknown,inbound,MQL-Demo,core,12,4,0,0
+2026-01-12,EMEA,VSB,inbound,MQL-Contact Sales,core,15,11,3,2
+2026-01-12,EMEA,VSB,inbound,MQL-Demo,core,17,5,0,0
+2026-01-12,EMEA,VSB,inbound,MQL-Trial,core,23,4,2,1
+2026-01-12,NAMER,ENT,inbound,MQL-Demo,core,22,1,0,0
+2026-01-12,NAMER,ENT,inbound,MQL-Event,non-core,19,2,1,0
+2026-01-12,NAMER,ENT,inbound,MQL-Trial,core,14,3,0,0
+2026-01-12,NAMER,MM,inbound,MQL-Contact Sales,core,20,15,6,6
+2026-01-12,NAMER,MM,inbound,MQL-Demo,core,28,7,3,3
+2026-01-12,NAMER,MM,inbound,MQL-Trial,core,25,5,1,1
+2026-01-12,NAMER,SB,inbound,MQL-Demo,core,16,6,2,2
+2026-01-12,NAMER,SB,inbound,MQL-Trial,core,15,4,1,1
+2026-01-12,NAMER,Unknown,inbound,MQL-Contact Sales,core,21,6,0,0
+2026-01-12,NAMER,Unknown,inbound,MQL-Demo,core,16,3,0,0
+2026-01-12,NAMER,VSB,inbound,MQL-Contact Sales,core,14,7,3,2
+2026-01-12,NAMER,VSB,inbound,MQL-Demo,core,23,10,3,0
+2026-01-12,NAMER,VSB,inbound,MQL-Trial,core,16,5,0,0
+2026-01-19,EMEA,ENT,inbound,MQL-Event,non-core,10,1,0,0
+2026-01-19,EMEA,MM,inbound,MQL-Demo,core,14,6,0,0
+2026-01-19,EMEA,Unknown,inbound,MQL-Contact Sales,core,10,5,0,0
+2026-01-19,EMEA,VSB,inbound,MQL-Contact Sales,core,15,10,4,4
+2026-01-19,EMEA,VSB,inbound,MQL-Demo,core,19,6,2,1
+2026-01-19,EMEA,VSB,inbound,MQL-Trial,core,14,3,0,0
+2026-01-19,NAMER,ENT,inbound,MQL-Contact Sales,core,14,2,2,2
+2026-01-19,NAMER,ENT,inbound,MQL-Demo,core,33,1,1,1
+2026-01-19,NAMER,ENT,inbound,MQL-Event,non-core,21,0,0,0
+2026-01-19,NAMER,ENT,inbound,MQL-Trial,core,15,0,0,0
+2026-01-19,NAMER,MM,inbound,MQL-Contact Sales,core,11,6,4,4
+2026-01-19,NAMER,MM,inbound,MQL-Demo,core,35,11,5,4
+2026-01-19,NAMER,MM,inbound,MQL-Trial,core,20,4,1,1
+2026-01-19,NAMER,SB,inbound,MQL-Contact Sales,core,13,12,7,4
+2026-01-19,NAMER,SB,inbound,MQL-Demo,core,32,15,4,4
+2026-01-19,NAMER,SB,inbound,MQL-Event,non-core,12,2,1,1
+2026-01-19,NAMER,SB,inbound,MQL-Trial,core,23,4,2,1
+2026-01-19,NAMER,Unknown,inbound,MQL-Contact Sales,core,18,6,0,0
+2026-01-19,NAMER,Unknown,inbound,MQL-Demo,core,15,1,0,0
+2026-01-19,NAMER,VSB,inbound,MQL-Contact Sales,core,19,14,5,5
+2026-01-19,NAMER,VSB,inbound,MQL-Demo,core,31,18,3,3
+2026-01-19,NAMER,VSB,inbound,MQL-Trial,core,21,3,0,0
+2026-01-26,APAC,ENT,inbound,MQL-Event,non-core,11,3,0,0
+2026-01-26,EMEA,ENT,inbound,MQL-Demo,core,18,1,1,0
+2026-01-26,EMEA,ENT,inbound,MQL-Webinar,non-core,23,0,0,0
+2026-01-26,EMEA,MM,inbound,MQL-Demo,core,12,3,0,0
+2026-01-26,EMEA,MM,inbound,MQL-Trial,core,12,3,0,0
+2026-01-26,EMEA,SB,inbound,MQL-Contact Sales,core,12,10,7,6
+2026-01-26,EMEA,SB,inbound,MQL-Trial,core,13,5,1,1
+2026-01-26,EMEA,Unknown,inbound,MQL-Contact Sales,core,11,6,0,0
+2026-01-26,EMEA,Unknown,inbound,MQL-Demo,core,18,2,0,0
+2026-01-26,EMEA,VSB,inbound,MQL-Contact Sales,core,11,4,2,2
+2026-01-26,EMEA,VSB,inbound,MQL-Demo,core,28,16,1,0
+2026-01-26,EMEA,VSB,inbound,MQL-Trial,core,15,3,0,0
+2026-01-26,NAMER,ENT,inbound,MQL-Demo,core,25,2,1,1
+2026-01-26,NAMER,ENT,inbound,MQL-Webinar,non-core,81,0,1,1
+2026-01-26,NAMER,MM,inbound,MQL-Contact Sales,core,13,10,4,1
+2026-01-26,NAMER,MM,inbound,MQL-Demo,core,27,6,4,3
+2026-01-26,NAMER,MM,inbound,MQL-Nurture,non-core,10,1,0,0
+2026-01-26,NAMER,MM,inbound,MQL-Webinar,non-core,47,2,2,1
+2026-01-26,NAMER,MM,outbound,MQL-Webinar,non-core,24,0,0,0
+2026-01-26,NAMER,SB,inbound,MQL-Contact Sales,core,11,8,3,3
+2026-01-26,NAMER,SB,inbound,MQL-Demo,core,23,10,1,1
+2026-01-26,NAMER,SB,inbound,MQL-Trial,core,18,5,2,2
+2026-01-26,NAMER,Unknown,inbound,MQL-Contact Sales,core,21,7,0,0
+2026-01-26,NAMER,Unknown,inbound,MQL-Demo,core,21,4,0,0
+2026-01-26,NAMER,VSB,inbound,MQL-Contact Sales,core,19,14,3,3
+2026-01-26,NAMER,VSB,inbound,MQL-Demo,core,27,9,2,2
+2026-01-26,NAMER,VSB,inbound,MQL-Trial,core,12,3,2,2
+2026-02-02,EMEA,ENT,inbound,MQL-Demo,core,12,0,0,0
+2026-02-02,EMEA,MM,inbound,MQL-Trial,core,11,2,0,0
+2026-02-02,EMEA,MM,outbound,MQL-Event,non-core,10,0,0,0
+2026-02-02,EMEA,SB,inbound,MQL-Demo,core,21,7,2,1
+2026-02-02,EMEA,SB,inbound,MQL-Trial,core,11,3,2,1
+2026-02-02,EMEA,Unknown,inbound,MQL-Contact Sales,core,14,9,0,0
+2026-02-02,EMEA,Unknown,inbound,MQL-Demo,core,11,1,0,0
+2026-02-02,EMEA,VSB,inbound,MQL-Contact Sales,core,11,8,3,1
+2026-02-02,EMEA,VSB,inbound,MQL-Demo,core,13,9,1,1
+2026-02-02,EMEA,VSB,inbound,MQL-Trial,core,15,4,0,0
+2026-02-02,NAMER,ENT,inbound,MQL-Demo,core,24,2,1,1
+2026-02-02,NAMER,ENT,inbound,MQL-Trial,core,14,0,0,0
+2026-02-02,NAMER,MM,inbound,MQL-Demo,core,24,5,1,1
+2026-02-02,NAMER,MM,inbound,MQL-Trial,core,20,3,0,0
+2026-02-02,NAMER,SB,inbound,MQL-Demo,core,21,6,3,3
+2026-02-02,NAMER,SB,inbound,MQL-Nurture,non-core,10,1,0,0
+2026-02-02,NAMER,SB,inbound,MQL-Trial,core,24,9,0,0
+2026-02-02,NAMER,Unknown,inbound,MQL-Contact Sales,core,11,4,0,0
+2026-02-02,NAMER,Unknown,inbound,MQL-Demo,core,19,4,0,0
+2026-02-02,NAMER,VSB,inbound,MQL-Demo,core,27,11,3,3
+2026-02-02,NAMER,VSB,inbound,MQL-Trial,core,17,4,0,0
+2026-02-09,EMEA,ENT,inbound,MQL-Demo,core,10,1,0,0
+2026-02-09,EMEA,MM,inbound,MQL-Contact Sales,core,11,11,7,6
+2026-02-09,EMEA,MM,inbound,MQL-Demo,core,18,7,3,3
+2026-02-09,EMEA,SB,inbound,MQL-Demo,core,12,5,2,1
+2026-02-09,EMEA,VSB,inbound,MQL-Contact Sales,core,17,12,4,1
+2026-02-09,EMEA,VSB,inbound,MQL-Demo,core,14,2,1,1
+2026-02-09,EMEA,VSB,inbound,MQL-Trial,core,11,2,0,0
+2026-02-09,NAMER,ENT,inbound,MQL-Demo,core,17,5,0,0
+2026-02-09,NAMER,ENT,inbound,MQL-Nurture,non-core,21,2,0,0
+2026-02-09,NAMER,MM,inbound,MQL-Demo,core,21,4,2,1
+2026-02-09,NAMER,MM,inbound,MQL-Nurture,non-core,22,3,0,0
+2026-02-09,NAMER,MM,inbound,MQL-Trial,core,17,5,1,1
+2026-02-09,NAMER,MM,outbound,MQL-Nurture,non-core,10,0,0,0
+2026-02-09,NAMER,SB,inbound,MQL-Demo,core,20,3,2,2
+2026-02-09,NAMER,SB,inbound,MQL-Nurture,non-core,25,4,0,0
+2026-02-09,NAMER,Unknown,inbound,MQL-Contact Sales,core,17,7,0,0
+2026-02-09,NAMER,VSB,inbound,MQL-Contact Sales,core,19,12,5,4
+2026-02-09,NAMER,VSB,inbound,MQL-Demo,core,11,1,0,0
+2026-02-09,NAMER,VSB,inbound,MQL-Trial,core,13,2,0,0
+2026-02-16,EMEA,MM,inbound,MQL-Demo,core,12,5,2,1
+2026-02-16,EMEA,SB,inbound,MQL-Demo,core,12,4,1,0
+2026-02-16,EMEA,Unknown,inbound,MQL-Contact Sales,core,17,9,0,0
+2026-02-16,EMEA,Unknown,inbound,MQL-Demo,core,12,1,0,0
+2026-02-16,EMEA,VSB,inbound,MQL-Contact Sales,core,15,13,6,3
+2026-02-16,EMEA,VSB,inbound,MQL-Demo,core,14,3,0,0
+2026-02-16,EMEA,VSB,inbound,MQL-Trial,core,16,1,0,0
+2026-02-16,NAMER,ENT,inbound,MQL-Nurture,non-core,20,2,0,0
+2026-02-16,NAMER,ENT,inbound,MQL-Trial,core,11,1,0,0
+2026-02-16,NAMER,MM,inbound,MQL-Demo,core,19,10,2,2
+2026-02-16,NAMER,MM,inbound,MQL-Trial,core,12,3,2,1
+2026-02-16,NAMER,MM,outbound,MQL-Demo,core,11,6,0,0
+2026-02-16,NAMER,MM,outbound,MQL-Nurture,non-core,12,1,0,0
+2026-02-16,NAMER,SB,inbound,MQL-Contact Sales,core,11,9,6,5
+2026-02-16,NAMER,SB,inbound,MQL-Demo,core,15,6,2,2
+2026-02-16,NAMER,SB,inbound,MQL-Trial,core,11,5,1,1
+2026-02-16,NAMER,Unknown,inbound,MQL-Contact Sales,core,16,7,0,0
+2026-02-16,NAMER,Unknown,inbound,MQL-Demo,core,11,1,0,0
+2026-02-16,NAMER,VSB,inbound,MQL-Contact Sales,core,13,8,4,3
+2026-02-16,NAMER,VSB,inbound,MQL-Demo,core,16,2,0,0
+2026-02-16,NAMER,VSB,inbound,MQL-Trial,core,16,4,0,0
+2026-02-23,EMEA,MM,inbound,MQL-Demo,core,17,9,3,2
+2026-02-23,EMEA,MM,inbound,MQL-Trial,core,11,4,0,0
+2026-02-23,EMEA,SB,inbound,MQL-Demo,core,17,7,0,0
+2026-02-23,EMEA,SB,inbound,MQL-Trial,core,14,5,0,0
+2026-02-23,EMEA,Unknown,inbound,MQL-Demo,core,11,3,0,0
+2026-02-23,EMEA,VSB,inbound,MQL-Demo,core,13,4,0,0
+2026-02-23,EMEA,VSB,inbound,MQL-Trial,core,11,0,0,0
+2026-02-23,NAMER,ENT,inbound,MQL-Demo,core,18,4,0,0
+2026-02-23,NAMER,MM,inbound,MQL-Contact Sales,core,10,8,4,3
+2026-02-23,NAMER,MM,inbound,MQL-Demo,core,21,9,3,3
+2026-02-23,NAMER,MM,outbound,MQL-Demo,core,12,5,3,3
+2026-02-23,NAMER,SB,inbound,MQL-Contact Sales,core,11,6,3,1
+2026-02-23,NAMER,SB,inbound,MQL-Demo,core,16,8,3,2
+2026-02-23,NAMER,SB,inbound,MQL-Trial,core,13,4,1,1
+2026-02-23,NAMER,Unknown,inbound,MQL-Contact Sales,core,16,6,0,0
+2026-02-23,NAMER,VSB,inbound,MQL-Contact Sales,core,17,12,4,3
+2026-02-23,NAMER,VSB,inbound,MQL-Demo,core,15,6,3,3
+2026-02-23,NAMER,VSB,inbound,MQL-Trial,core,19,0,1,1
+2026-03-02,EMEA,ENT,inbound,MQL-Demo,core,11,1,0,0
+2026-03-02,EMEA,ENT,inbound,MQL-Event,non-core,28,6,1,1
+2026-03-02,EMEA,MM,inbound,MQL-Demo,core,12,4,2,1
+2026-03-02,EMEA,MM,outbound,MQL-Event,non-core,13,3,1,0
+2026-03-02,EMEA,SB,inbound,MQL-Demo,core,11,7,2,1
+2026-03-02,EMEA,SB,inbound,MQL-Trial,core,14,6,2,1
+2026-03-02,EMEA,Unknown,inbound,MQL-Contact Sales,core,11,5,0,0
+2026-03-02,EMEA,Unknown,inbound,MQL-Demo,core,12,4,0,0
+2026-03-02,EMEA,VSB,inbound,MQL-Contact Sales,core,14,12,7,3
+2026-03-02,EMEA,VSB,inbound,MQL-Demo,core,23,12,4,1
+2026-03-02,EMEA,VSB,inbound,MQL-Trial,core,13,3,0,0
+2026-03-02,NAMER,ENT,inbound,MQL-Demo,core,27,8,2,2
+2026-03-02,NAMER,ENT,inbound,MQL-Event,non-core,28,8,0,0
+2026-03-02,NAMER,MM,inbound,MQL-Contact Sales,core,13,9,6,5
+2026-03-02,NAMER,MM,inbound,MQL-Demo,core,20,9,1,1
+2026-03-02,NAMER,MM,inbound,MQL-Trial,core,11,2,1,1
+2026-03-02,NAMER,SB,inbound,MQL-Contact Sales,core,13,11,2,0
+2026-03-02,NAMER,SB,inbound,MQL-Trial,core,12,2,2,2
+2026-03-02,NAMER,Unknown,inbound,MQL-Contact Sales,core,10,4,0,0
+2026-03-02,NAMER,Unknown,inbound,MQL-Demo,core,13,6,0,0
+2026-03-02,NAMER,VSB,inbound,MQL-Contact Sales,core,21,15,5,3
+2026-03-02,NAMER,VSB,inbound,MQL-Demo,core,33,17,9,7
+2026-03-02,NAMER,VSB,inbound,MQL-Trial,core,14,1,0,0
+2026-03-09,EMEA,ENT,inbound,MQL-Demo,core,10,5,1,1
+2026-03-09,EMEA,MM,inbound,MQL-Demo,core,17,5,2,2
+2026-03-09,EMEA,SB,inbound,MQL-Contact Sales,core,14,11,8,6
+2026-03-09,EMEA,SB,inbound,MQL-Trial,core,17,1,0,0
+2026-03-09,EMEA,Unknown,inbound,MQL-Demo,core,22,4,0,0
+2026-03-09,EMEA,VSB,inbound,MQL-Contact Sales,core,12,8,3,2
+2026-03-09,EMEA,VSB,inbound,MQL-Demo,core,17,7,0,0
+2026-03-09,EMEA,VSB,inbound,MQL-Trial,core,25,5,2,1
+2026-03-09,NAMER,ENT,inbound,MQL-Demo,core,20,8,4,2
+2026-03-09,NAMER,ENT,inbound,MQL-Event,non-core,11,2,0,0
+2026-03-09,NAMER,MM,inbound,MQL-Demo,core,24,7,2,1
+2026-03-09,NAMER,MM,inbound,MQL-Trial,core,11,1,0,0
+2026-03-09,NAMER,MM,outbound,MQL-Event,non-core,13,1,0,0
+2026-03-09,NAMER,SB,inbound,MQL-Contact Sales,core,20,16,10,9
+2026-03-09,NAMER,SB,inbound,MQL-Demo,core,19,7,4,2
+2026-03-09,NAMER,SB,inbound,MQL-Trial,core,13,5,0,0
+2026-03-09,NAMER,Unknown,inbound,MQL-Contact Sales,core,12,3,0,0
+2026-03-09,NAMER,Unknown,inbound,MQL-Demo,core,36,8,0,0
+2026-03-09,NAMER,VSB,inbound,MQL-Contact Sales,core,28,18,9,7
+2026-03-09,NAMER,VSB,inbound,MQL-Demo,core,33,15,8,7
+2026-03-09,NAMER,VSB,inbound,MQL-Trial,core,32,2,1,1
+2026-03-16,EMEA,MM,inbound,MQL-Demo,core,15,6,5,4
+2026-03-16,EMEA,SB,inbound,MQL-Trial,core,11,3,0,0
+2026-03-16,EMEA,Unknown,inbound,MQL-Demo,core,10,3,0,0
+2026-03-16,EMEA,VSB,inbound,MQL-Demo,core,16,9,1,0
+2026-03-16,EMEA,VSB,inbound,MQL-Trial,core,19,3,1,0
+2026-03-16,NAMER,ENT,inbound,MQL-Demo,core,20,3,1,1
+2026-03-16,NAMER,MM,inbound,MQL-Contact Sales,core,12,9,2,2
+2026-03-16,NAMER,MM,inbound,MQL-Demo,core,18,8,3,2
+2026-03-16,NAMER,MM,inbound,MQL-Trial,core,12,2,0,0
+2026-03-16,NAMER,SB,inbound,MQL-Contact Sales,core,10,8,7,6
+2026-03-16,NAMER,SB,inbound,MQL-Demo,core,26,14,7,6
+2026-03-16,NAMER,SB,inbound,MQL-Trial,core,11,3,0,0
+2026-03-16,NAMER,Unknown,inbound,MQL-Contact Sales,core,10,3,0,0
+2026-03-16,NAMER,Unknown,inbound,MQL-Demo,core,14,4,0,0
+2026-03-16,NAMER,VSB,inbound,MQL-Contact Sales,core,14,11,3,3
+2026-03-16,NAMER,VSB,inbound,MQL-Demo,core,28,10,5,5
+2026-03-16,NAMER,VSB,inbound,MQL-Trial,core,29,3,1,0
+2026-03-23,APAC,ENT,inbound,MQL-Event,non-core,17,7,0,0
+2026-03-23,APAC,MM,inbound,MQL-Event,non-core,30,9,0,0
+2026-03-23,APAC,SB,inbound,MQL-Event,non-core,11,3,0,0
+2026-03-23,EMEA,MM,inbound,MQL-Contact Sales,core,11,8,4,3
+2026-03-23,EMEA,MM,inbound,MQL-Demo,core,11,3,2,2
+2026-03-23,EMEA,MM,outbound,MQL-Demo,core,13,2,1,1
+2026-03-23,EMEA,SB,inbound,MQL-Contact Sales,core,11,11,4,2
+2026-03-23,EMEA,SB,inbound,MQL-Demo,core,25,15,5,5
+2026-03-23,EMEA,SB,inbound,MQL-Event,non-core,11,0,0,0
+2026-03-23,EMEA,SB,inbound,MQL-Trial,core,11,4,2,2
+2026-03-23,EMEA,SB,outbound,MQL-Demo,core,11,6,2,2
+2026-03-23,EMEA,Unknown,inbound,MQL-Demo,core,15,4,0,0
+2026-03-23,EMEA,VSB,inbound,MQL-Trial,core,17,2,1,0
+2026-03-23,NAMER,ENT,inbound,MQL-Demo,core,29,6,0,0
+2026-03-23,NAMER,MM,inbound,MQL-Contact Sales,core,13,10,6,5
+2026-03-23,NAMER,MM,inbound,MQL-Demo,core,30,15,7,5
+2026-03-23,NAMER,SB,inbound,MQL-Demo,core,15,6,2,2
+2026-03-23,NAMER,SB,inbound,MQL-Trial,core,22,6,1,1
+2026-03-23,NAMER,Unknown,inbound,MQL-Demo,core,18,7,0,0
+2026-03-23,NAMER,VSB,inbound,MQL-Contact Sales,core,20,16,4,4
+2026-03-23,NAMER,VSB,inbound,MQL-Demo,core,29,17,6,6
+2026-03-23,NAMER,VSB,inbound,MQL-Trial,core,21,4,2,2
+2026-03-30,EMEA,SB,inbound,MQL-Demo,core,14,9,4,2
+2026-03-30,EMEA,Unknown,inbound,MQL-Demo,core,13,7,0,0
+2026-03-30,EMEA,VSB,inbound,MQL-Trial,core,19,4,2,2
+2026-03-30,NAMER,ENT,inbound,MQL-Content Download,non-core,14,0,0,0
+2026-03-30,NAMER,ENT,inbound,MQL-Event,non-core,16,4,3,2
+2026-03-30,NAMER,ENT,inbound,MQL-Trial,core,11,4,0,0
+2026-03-30,NAMER,MM,inbound,MQL-Demo,core,26,9,4,4
+2026-03-30,NAMER,MM,inbound,MQL-Event,non-core,16,5,0,0
+2026-03-30,NAMER,MM,inbound,MQL-Trial,core,14,3,1,1
+2026-03-30,NAMER,MM,outbound,MQL-Content Download,non-core,17,1,0,0
+2026-03-30,NAMER,MM,outbound,MQL-Event,non-core,14,3,0,0
+2026-03-30,NAMER,SB,inbound,MQL-Demo,core,15,7,6,6
+2026-03-30,NAMER,SB,inbound,MQL-Trial,core,11,4,0,0
+2026-03-30,NAMER,Unknown,inbound,MQL-Demo,core,22,4,0,0
+2026-03-30,NAMER,VSB,inbound,MQL-Contact Sales,core,16,11,7,6
+2026-03-30,NAMER,VSB,inbound,MQL-Demo,core,19,8,4,3
+2026-03-30,NAMER,VSB,inbound,MQL-Event,non-core,24,9,2,2
+2026-03-30,NAMER,VSB,inbound,MQL-Trial,core,22,3,1,1
+2026-04-06,EMEA,MM,outbound,MQL-Content Download,non-core,22,3,0,0
+2026-04-06,EMEA,SB,inbound,MQL-Demo,core,13,8,4,2
+2026-04-06,EMEA,Unknown,inbound,MQL-Demo,core,17,1,0,0
+2026-04-06,EMEA,VSB,inbound,MQL-Trial,core,14,1,0,0
+2026-04-06,NAMER,ENT,inbound,MQL-Content Download,non-core,17,3,0,0
+2026-04-06,NAMER,ENT,inbound,MQL-Demo,core,16,3,1,1
+2026-04-06,NAMER,MM,inbound,MQL-Demo,core,13,4,2,2
+2026-04-06,NAMER,MM,inbound,MQL-Event,non-core,11,0,0,0
+2026-04-06,NAMER,MM,inbound,MQL-Trial,core,15,3,0,0
+2026-04-06,NAMER,MM,outbound,MQL-Content Download,non-core,40,1,0,0
+2026-04-06,NAMER,MM,outbound,MQL-Demo,core,12,2,0,0
+2026-04-06,NAMER,SB,inbound,MQL-Demo,core,16,6,3,3
+2026-04-06,NAMER,SB,outbound,MQL-Demo,core,14,5,3,3
+2026-04-06,NAMER,Unknown,inbound,MQL-Contact Sales,core,16,7,0,0
+2026-04-06,NAMER,Unknown,inbound,MQL-Demo,core,17,6,0,0
+2026-04-06,NAMER,VSB,inbound,MQL-Contact Sales,core,10,9,2,2
+2026-04-06,NAMER,VSB,inbound,MQL-Demo,core,29,13,5,2
+2026-04-06,NAMER,VSB,inbound,MQL-Trial,core,26,3,0,0
+2026-04-13,EMEA,MM,inbound,MQL-Demo,core,10,2,1,1
+2026-04-13,EMEA,MM,outbound,MQL-Content Download,non-core,24,2,1,0
+2026-04-13,EMEA,SB,inbound,MQL-Contact Sales,core,13,10,8,7
+2026-04-13,EMEA,SB,inbound,MQL-Demo,core,12,6,1,1
+2026-04-13,EMEA,SB,inbound,MQL-Trial,core,13,7,1,0
+2026-04-13,EMEA,Unknown,inbound,MQL-Contact Sales,core,11,7,0,0
+2026-04-13,EMEA,Unknown,inbound,MQL-Demo,core,11,2,0,0
+2026-04-13,EMEA,VSB,inbound,MQL-Demo,core,13,7,1,1
+2026-04-13,EMEA,VSB,inbound,MQL-Trial,core,24,3,0,0
+2026-04-13,NAMER,ENT,inbound,MQL-Demo,core,17,5,1,1
+2026-04-13,NAMER,ENT,inbound,MQL-Event,non-core,33,1,2,1
+2026-04-13,NAMER,MM,inbound,MQL-Demo,core,19,5,2,1
+2026-04-13,NAMER,MM,inbound,MQL-Event,non-core,26,3,1,1
+2026-04-13,NAMER,MM,inbound,MQL-Trial,core,16,4,0,0
+2026-04-13,NAMER,MM,outbound,MQL-Content Download,non-core,18,5,1,1
+2026-04-13,NAMER,MM,outbound,MQL-Event,non-core,15,2,0,0
+2026-04-13,NAMER,SB,inbound,MQL-Demo,core,30,17,6,5
+2026-04-13,NAMER,SB,inbound,MQL-Event,non-core,10,5,0,0
+2026-04-13,NAMER,SB,inbound,MQL-Trial,core,14,4,1,1
+2026-04-13,NAMER,Unknown,inbound,MQL-Demo,core,28,15,0,0
+2026-04-13,NAMER,VSB,inbound,MQL-Contact Sales,core,16,12,5,4
+2026-04-13,NAMER,VSB,inbound,MQL-Demo,core,24,11,2,1
+2026-04-13,NAMER,VSB,inbound,MQL-Event,non-core,15,3,0,0
+2026-04-13,NAMER,VSB,inbound,MQL-Trial,core,29,3,0,0
+2026-04-20,EMEA,ENT,inbound,MQL-Content Download,non-core,14,7,0,0
+2026-04-20,EMEA,MM,inbound,MQL-Demo,core,10,1,0,0
+2026-04-20,EMEA,MM,outbound,MQL-Content Download,non-core,29,4,2,0
+2026-04-20,EMEA,SB,inbound,MQL-Demo,core,12,4,2,2
+2026-04-20,EMEA,VSB,inbound,MQL-Demo,core,18,8,1,1
+2026-04-20,EMEA,VSB,inbound,MQL-Trial,core,12,3,1,1
+2026-04-20,NAMER,ENT,inbound,MQL-Contact Sales,core,15,6,2,1
+2026-04-20,NAMER,ENT,inbound,MQL-Content Download,non-core,14,2,0,0
+2026-04-20,NAMER,ENT,inbound,MQL-Demo,core,20,7,2,2
+2026-04-20,NAMER,ENT,inbound,MQL-Trial,core,15,2,0,0
+2026-04-20,NAMER,MM,inbound,MQL-Demo,core,21,8,2,1
+2026-04-20,NAMER,MM,inbound,MQL-Trial,core,14,2,1,1
+2026-04-20,NAMER,MM,outbound,MQL-Content Download,non-core,53,4,0,0
+2026-04-20,NAMER,SB,inbound,MQL-Demo,core,17,9,2,0
+2026-04-20,NAMER,SB,inbound,MQL-Trial,core,13,1,1,1
+2026-04-20,NAMER,Unknown,inbound,MQL-Contact Sales,core,12,7,0,0
+2026-04-20,NAMER,Unknown,inbound,MQL-Demo,core,24,8,0,0
+2026-04-20,NAMER,VSB,inbound,MQL-Contact Sales,core,12,10,4,2
+2026-04-20,NAMER,VSB,inbound,MQL-Demo,core,21,10,1,1
+2026-04-20,NAMER,VSB,inbound,MQL-Trial,core,28,2,1,1
+2026-04-27,EMEA,MM,inbound,MQL-Demo,core,11,5,2,1
+2026-04-27,EMEA,VSB,inbound,MQL-Demo,core,11,3,1,1
+2026-04-27,EMEA,VSB,inbound,MQL-Trial,core,15,2,1,0
+2026-04-27,NAMER,ENT,inbound,MQL-Content Download,non-core,12,1,0,0
+2026-04-27,NAMER,ENT,inbound,MQL-Demo,core,18,6,1,0
+2026-04-27,NAMER,ENT,inbound,MQL-Trial,core,19,3,0,0
+2026-04-27,NAMER,MM,inbound,MQL-Demo,core,15,5,3,2
+2026-04-27,NAMER,MM,outbound,MQL-Content Download,non-core,13,2,0,0
+2026-04-27,NAMER,SB,inbound,MQL-Contact Sales,core,11,8,3,3
+2026-04-27,NAMER,SB,inbound,MQL-Demo,core,18,8,3,1
+2026-04-27,NAMER,SB,inbound,MQL-Trial,core,18,2,0,0
+2026-04-27,NAMER,Unknown,inbound,MQL-Contact Sales,core,15,10,0,0
+2026-04-27,NAMER,Unknown,inbound,MQL-Demo,core,15,2,0,0
+2026-04-27,NAMER,VSB,inbound,MQL-Contact Sales,core,18,16,9,9
+2026-04-27,NAMER,VSB,inbound,MQL-Demo,core,21,13,4,2
+2026-04-27,NAMER,VSB,inbound,MQL-Trial,core,20,1,0,0
+2026-05-04,EMEA,MM,inbound,MQL-Demo,core,13,5,1,0
+2026-05-04,EMEA,SB,inbound,MQL-Contact Sales,core,10,9,8,3
+2026-05-04,EMEA,SB,inbound,MQL-Demo,core,11,2,1,0
+2026-05-04,EMEA,SB,inbound,MQL-Trial,core,10,2,2,2
+2026-05-04,EMEA,Unknown,inbound,MQL-Contact Sales,core,10,3,0,0
+2026-05-04,EMEA,VSB,inbound,MQL-Demo,core,16,7,1,0
+2026-05-04,EMEA,VSB,inbound,MQL-Trial,core,18,0,0,0
+2026-05-04,NAMER,ENT,inbound,MQL-Content Download,non-core,15,0,0,0
+2026-05-04,NAMER,ENT,inbound,MQL-Demo,core,15,4,0,0
+2026-05-04,NAMER,MM,inbound,MQL-Demo,core,10,4,1,1
+2026-05-04,NAMER,SB,inbound,MQL-Demo,core,18,7,2,1
+2026-05-04,NAMER,SB,inbound,MQL-Trial,core,14,4,2,2
+2026-05-04,NAMER,Unknown,inbound,MQL-Contact Sales,core,21,7,0,0
+2026-05-04,NAMER,Unknown,inbound,MQL-Demo,core,17,1,0,0
+2026-05-04,NAMER,VSB,inbound,MQL-Contact Sales,core,23,13,7,5
+2026-05-04,NAMER,VSB,inbound,MQL-Demo,core,22,9,1,0
+2026-05-04,NAMER,VSB,inbound,MQL-Trial,core,21,1,0,0
+2026-05-11,EMEA,SB,inbound,MQL-Trial,core,15,2,0,0
+2026-05-11,EMEA,Unknown,inbound,MQL-Demo,core,31,6,0,0
+2026-05-11,EMEA,VSB,inbound,MQL-Contact Sales,core,13,11,5,3
+2026-05-11,EMEA,VSB,inbound,MQL-Demo,core,24,9,2,2
+2026-05-11,EMEA,VSB,inbound,MQL-Trial,core,25,2,1,1
+2026-05-11,NAMER,ENT,inbound,MQL-Content Download,non-core,27,1,0,0
+2026-05-11,NAMER,ENT,inbound,MQL-Demo,core,13,1,0,0
+2026-05-11,NAMER,ENT,inbound,MQL-Trial,core,15,0,0,0
+2026-05-11,NAMER,MM,inbound,MQL-Demo,core,17,0,0,0
+2026-05-11,NAMER,MM,inbound,MQL-Trial,core,12,1,0,0
+2026-05-11,NAMER,MM,outbound,MQL-Content Download,non-core,19,0,0,0
+2026-05-11,NAMER,SB,inbound,MQL-Demo,core,18,3,1,0
+2026-05-11,NAMER,SB,inbound,MQL-Trial,core,19,2,1,1
+2026-05-11,NAMER,Unknown,inbound,MQL-Contact Sales,core,17,6,0,0
+2026-05-11,NAMER,Unknown,inbound,MQL-Demo,core,50,3,0,0
+2026-05-11,NAMER,VSB,inbound,MQL-Contact Sales,core,14,10,4,2
+2026-05-11,NAMER,VSB,inbound,MQL-Demo,core,24,9,4,2
+2026-05-11,NAMER,VSB,inbound,MQL-Event,non-core,11,2,1,0
+2026-05-11,NAMER,VSB,inbound,MQL-Trial,core,43,4,0,0
+2026-05-18,EMEA,ENT,inbound,MQL-Event,non-core,10,1,1,0
+2026-05-18,EMEA,MM,inbound,MQL-Trial,core,10,0,0,0
+2026-05-18,EMEA,MM,inbound,MQL-Webinar,non-core,22,4,0,0
+2026-05-18,EMEA,MM,outbound,MQL-Webinar,non-core,12,0,0,0
+2026-05-18,EMEA,SB,inbound,MQL-Demo,core,15,8,4,2
+2026-05-18,EMEA,SB,inbound,MQL-Trial,core,11,2,0,0
+2026-05-18,EMEA,SB,inbound,MQL-Webinar,non-core,20,2,0,0
+2026-05-18,EMEA,SB,outbound,MQL-Webinar,non-core,10,3,0,0
+2026-05-18,EMEA,Unknown,inbound,MQL-Demo,core,18,5,0,0
+2026-05-18,EMEA,Unknown,inbound,MQL-Webinar,non-core,12,3,0,0
+2026-05-18,EMEA,VSB,inbound,MQL-Contact Sales,core,16,10,3,3
+2026-05-18,EMEA,VSB,inbound,MQL-Demo,core,19,5,3,1
+2026-05-18,EMEA,VSB,inbound,MQL-Trial,core,22,2,0,0
+2026-05-18,NAMER,ENT,inbound,MQL-Content Download,non-core,21,0,1,0
+2026-05-18,NAMER,ENT,inbound,MQL-Demo,core,21,3,0,0
+2026-05-18,NAMER,ENT,inbound,MQL-Trial,core,12,1,0,0
+2026-05-18,NAMER,ENT,inbound,MQL-Webinar,non-core,16,1,0,0
+2026-05-18,NAMER,MM,inbound,MQL-Demo,core,19,6,1,1
+2026-05-18,NAMER,MM,inbound,MQL-Webinar,non-core,10,0,0,0
+2026-05-18,NAMER,MM,outbound,MQL-Content Download,non-core,31,4,0,0
+2026-05-18,NAMER,MM,outbound,MQL-Webinar,non-core,23,0,0,0
+2026-05-18,NAMER,SB,inbound,MQL-Demo,core,15,2,0,0
+2026-05-18,NAMER,SB,inbound,MQL-Trial,core,12,2,1,0
+2026-05-18,NAMER,SB,inbound,MQL-Webinar,non-core,13,4,0,0
+2026-05-18,NAMER,SB,outbound,MQL-Webinar,non-core,11,3,0,0
+2026-05-18,NAMER,Unknown,inbound,MQL-Contact Sales,core,34,15,0,0
+2026-05-18,NAMER,Unknown,inbound,MQL-Demo,core,23,5,0,0
+2026-05-18,NAMER,VSB,inbound,MQL-Contact Sales,core,22,12,3,2
+2026-05-18,NAMER,VSB,inbound,MQL-Demo,core,23,6,2,2
+2026-05-18,NAMER,VSB,inbound,MQL-Trial,core,16,1,0,0
+2026-05-25,EMEA,MM,outbound,MQL-Content Download,non-core,22,3,0,0
+2026-05-25,EMEA,Unknown,inbound,MQL-Demo,core,11,3,0,0
+2026-05-25,EMEA,VSB,inbound,MQL-Trial,core,18,1,0,0
+2026-05-25,NAMER,ENT,inbound,MQL-Content Download,non-core,52,5,0,0
+2026-05-25,NAMER,ENT,inbound,MQL-Trial,core,13,0,0,0
+2026-05-25,NAMER,MM,inbound,MQL-Content Download,non-core,10,1,0,0
+2026-05-25,NAMER,MM,inbound,MQL-Demo,core,12,3,0,0
+2026-05-25,NAMER,MM,outbound,MQL-Content Download,non-core,88,2,1,1
+2026-05-25,NAMER,Unknown,inbound,MQL-Contact Sales,core,18,8,0,0
+2026-05-25,NAMER,Unknown,inbound,MQL-Demo,core,30,4,0,0
+2026-05-25,NAMER,VSB,inbound,MQL-Contact Sales,core,14,8,5,3
+2026-05-25,NAMER,VSB,inbound,MQL-Demo,core,12,2,1,1
+2026-05-25,NAMER,VSB,inbound,MQL-Trial,core,26,2,1,1

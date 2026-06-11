@@ -1,0 +1,5 @@
+region,warm_traffic_share_pct,inbound_mql_share_pct,s1_share_pct,s1_rate_pct
+APAC,17.1,5.3,2.7,3.7
+EMEA,34.6,33.1,33.7,7.3
+LATAM,6.7,0.1,0.2,11.4
+NAMER,41.6,61.5,63.4,7.4
